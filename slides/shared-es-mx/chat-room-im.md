@@ -1,11 +1,11 @@
 ## Chat room
 
-- We've set up a chat room that we will monitor during the workshop
+- Hemos configurado un chat room que estaremos monitoreando durante el taller
 
-- Don't hesitate to use it to ask questions, or get help, or share feedback
+- Siéntete libre de usarlo para hacer preguntas, obtener ayuda o compartir retroalimentación
 
-- The chat room will also be available after the workshop
+- El chat room estará disponible despúes del taller
 
-- Join the chat room: @@CHAT@@
+- Ingresa al chat room: @@CHAT@@
 
-- Say hi in the chat room!
+- ¡Participa en el chat room!

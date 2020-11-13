@@ -18,3 +18,14 @@ content:
 - shared-es-mx/logistics.md
 - shared-es-mx/about-slides.md
 - shared-es-mx/chat-room-im.md
+- shared/toc.md
+-
+  - k8s/prereqs-admin.md
+  - k8s/architecture.md
+  - k8s/deploymentslideshow.md
+  - k8s/dmuc.md
+-
+  - k8s/multinode.md
+  - k8s/cni.md
+  - k8s/cni-internals.md
+  - k8s/interco.md

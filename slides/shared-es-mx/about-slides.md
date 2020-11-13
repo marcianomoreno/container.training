@@ -20,7 +20,7 @@
 
 - Las láminas quedarán en línea para que puedas revisarlas después en caso de ser requerido
 
-  (let's say we'll keep them online at least 1 year, how about that?)
+  (las láminas estarán disponibles por lo menos un año despúes de este curso)
 
 - Es posible descargar las láminas por medio del siguiente URL:
 
@@ -40,7 +40,7 @@
 
 - Estas láminas fueron escritas en markdown
 
-- El origen de estas láminas están disponibles en el repositorio público de GitHub
+- El origen de estas láminas está disponible en el repositorio público de GitHub
 
   https://@@GITREPO@@
 

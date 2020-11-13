@@ -185,7 +185,7 @@ def gentoc(tree, path=()):
             if path[0] == 0:
                 label = "Table of contents"
             else:
-                label = "Module {}".format(path[0])
+                label = "Módulo {}".format(path[0])
             moduleslide = "name: toc-module-{n}\n\n## {label}\n\n".format(n=path[0], label=label)
             for (i,subtree) in enumerate(tree):
                 moduleslide += gentoc(subtree, path+(i+offset,)) + "\n\n"
