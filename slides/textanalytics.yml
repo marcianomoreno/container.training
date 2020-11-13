@@ -1,0 +1,20 @@
+title: |
+  Análisis de Datos No Estructurados
+
+#chat: "[Slack](https://dockercommunity.slack.com/messages/C7GKACWDV)"
+chat: "[Gitter](https://gitter.im/marmo/nlp-202011-cdmx)"
+
+gitrepo: github.com/marcianomoreno/container.training
+
+slides: http://container.training/
+
+#slidenumberprefix: "#SomeHashTag &mdash; "
+
+exclude:
+- self-paced
+
+content:
+- shared-es-mx/title.md
+- shared-es-mx/logistics.md
+- shared-es-mx/about-slides.md
+- shared-es-mx/chat-room-im.md
