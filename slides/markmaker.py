@@ -236,7 +236,8 @@ try:
         branch = branch.strip()
     base = subprocess.check_output(["git", "rev-parse", "--show-prefix"]).decode("ascii")
     base = base.strip().strip("/")
-    urltemplate = ("{repo}/tree/{branch}/{base}/{filename}"
+    # TODO: tree or blob?
+    urltemplate = ("{repo}/blob/{branch}/{base}/{filename}"
         .format(repo=repo, branch=branch, base=base, filename="{}"))
 except:
     logging.exception("Could not generate repository URL; generating local URLs instead.")

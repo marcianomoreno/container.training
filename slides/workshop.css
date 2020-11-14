@@ -33,6 +33,11 @@ code.remark-code {
   padding: 0;
 }
 
+/* Adding support for concepts */
+.concept ul li code.remark-code.hljs.bash {
+  padding: 0;
+}
+
 /* For print! Borrowed from https://github.com/gnab/remark/issues/50 */
 @page {
   size: 1210px 681px;
@@ -137,6 +142,22 @@ div.pic span.interstitial img {
   max-width: unset;
 }
 
+/* Adjust image by width*/
+div.pic span.interstitial80 img {
+  width: 80%;
+  max-height: unset;
+  max-width: unset;
+}
+div.pic span.interstitial60 img {
+  width: 60%;
+  max-height: unset;
+  max-width: unset;
+}
+div.pic span.interstitial40 img {
+  width: 40%;
+  max-height: unset;
+  max-width: unset;
+}
 /* "Normal" images (not on title or pic slides) shouldn't be too big */
 div img {
   max-width: 1210px;
@@ -177,7 +198,20 @@ div img {
   border: 2px dotted black;
 }
 .exercise:before {
-  content: "Exercise";
+  content: "Ejercicio";
+  margin-left: 1.8em;
+}
+
+.concept {
+  background-color: #eee;
+  background-image: url("images/information.png");
+  background-size: 1.4em;
+  background-repeat: no-repeat;
+  background-position: 0.2em 0.2em;
+  border: 2px dotted black;
+}
+.concept:before {
+  content: "Concepto";
   margin-left: 1.8em;
 }
 

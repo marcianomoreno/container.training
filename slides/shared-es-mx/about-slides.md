@@ -38,7 +38,7 @@
 
 - Eres bienvenido a usar, reutilizar y compartir estas láminas
 
-- Estas láminas fueron escritas en markdown
+- Estas láminas fueron escritas en markdown!
 
 - El origen de estas láminas está disponible en el repositorio público de GitHub
 
@@ -62,7 +62,7 @@ class: extra-details
 
 - Esta lámina tiene una lupa en la esquina superior izquierda
 
-- Esta lupas significa que la lámina provee detalles adicionales
+- Esta lupa significa que la lámina provee detalles adicionales
 
 - Siéntete libre de pasarla si:
   - tienes prisa

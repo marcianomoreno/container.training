@@ -14,11 +14,15 @@ exclude:
 - self-paced
 
 content:
+- shared-es-mx/cover.md
 - shared-es-mx/title.md
+- textanalytics/welcome.md
 - shared-es-mx/logistics.md
 - shared-es-mx/about-slides.md
 - shared-es-mx/chat-room-im.md
 - shared/toc.md
+- 
+  - textanalytics/data-types.md
 -
   - k8s/prereqs-admin.md
   - k8s/architecture.md

@@ -1,8 +1,4 @@
-## Intros
-
-- ¡Hola!:
-
-    - 👽 Marciano Moreno ([@marciano_moreno](https://twitter.com/marciano_moreno), NAYLA)
+## Fechas y horario
 
  <!-- .dummy[
 
@@ -18,12 +14,20 @@
 
 ] -->
 
-- The workshop will run from ...
+- Fecha de nuestras sesiones:
 
-- There will be a lunch break at ...
+  - 19/nov
+  - 24/nov
 
-  (And coffee breaks!)
+- Horario de nuestras sesiones:
 
+  - 9:00 inicio, exposición de temas
+  - 11:00 receso
+  - 11:20 exposición de temas
+  - 13:00 receso
+  - 13:20 exposición de temas
+  - 14:00 fin
+  
 - Feel free to interrupt for questions at any time
 
 - *Especially when you see full screen container pictures!*

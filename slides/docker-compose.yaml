@@ -12,5 +12,7 @@ services:
     volumes:
     - ..:/repo
     working_dir: /repo/slides
+    environment:
+      - REPOSITORY_URL=https://github.com/marcianomoreno/container.training
     command: ./build.sh forever
 
