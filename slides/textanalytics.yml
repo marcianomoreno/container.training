@@ -21,6 +21,10 @@ content:
 - shared-es-mx/about-slides.md
 - shared-es-mx/chat-room-im.md
 - shared/toc.md
+-
+  - textanalytics/introduction.md
+  - textanalytics/usecases.md
+
 - 
   - textanalytics/data-types.md
 -
