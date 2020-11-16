@@ -82,6 +82,7 @@ Además lograrás interpretar los resultados generados por los modelos de análi
 Objetivos específicos
 - Conocerás la relevancia del análisis de datos no estructurados
 - Conocerás los principales casos de uso de análisis de datos no estructurados
+- Conocerás los principios y tecnologías relacionados con análisis de datos no estructurados
 - Conocerás las principales herramientas, plataformas y servicios para análisis de datos no estructurados
     - Datos semiestructurados
     - Datos no estructurados

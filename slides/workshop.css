@@ -160,6 +160,12 @@ div.pic span.interstitial40 img {
   max-height: unset;
   max-width: unset;
 }
+div.pic span.interstitial20 img {
+  width: 20%;
+  max-height: unset;
+  max-width: unset;
+}
+
 /* "Normal" images (not on title or pic slides) shouldn't be too big */
 div img {
   max-width: 1210px;

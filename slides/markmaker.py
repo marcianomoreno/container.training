@@ -64,11 +64,11 @@ class: title
  {title}
 
 .nav[
-[Previous section](#{previouslink})
+[Sección anterior](#{previouslink})
 |
-[Back to table of contents](#{toclink})
+[Tabla de contenido](#{toclink})
 |
-[Next section](#{nextlink})
+[Siguiente sección](#{nextlink})
 ]
 
 .debug[(automatically generated title slide)]
@@ -183,7 +183,7 @@ def gentoc(tree, path=()):
         elif len(path) == 1:
             # If there is only one module, don't show "Module 1" but just "TOC"
             if path[0] == 0:
-                label = "Table of contents"
+                label = "Tabla de Contenido"
             else:
                 label = "Módulo {}".format(path[0])
             moduleslide = "name: toc-module-{n}\n\n## {label}\n\n".format(n=path[0], label=label)

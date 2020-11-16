@@ -29,7 +29,10 @@
 - Empresarial: documentos internos de la organización, patentes, artículos de investigación
 
 - Información personal: documentos almacenados en un dispositivo de uso personal (p.e. computadora)
+---
+## Relevancia
 
+- La práctica de Information Retrieval (IR), la recuperación de información, se está volviendo la forma predominante de acceso a la información.
 ---
 
 ## Análisis exploratorio

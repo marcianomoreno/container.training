@@ -17,19 +17,19 @@
 - Fecha de nuestras sesiones:
 
   - 19/nov
+
   - 24/nov
 
 - Horario de nuestras sesiones:
 
   - 9:00 inicio, exposición de temas
+
   - 11:00 receso
+
   - 11:20 exposición de temas
+
   - 13:00 receso
+
   - 13:20 exposición de temas
-  - 14:00 fin
   
-- Feel free to interrupt for questions at any time
-
-- *Especially when you see full screen container pictures!*
-
-- Live feedback, questions, help: @@CHAT@@
+  - 14:00 fin
