@@ -9,16 +9,21 @@ Junto con tu experiencia y el conocimiento de datos  tendrás herramientas para 
 ---
 
 ## Recursos de comunicación
-.warning[Verificaremos que contemos con las herramientas de comunicación y colaboración necesarias para la realización del módulo:
-- Zoom Meetings
-- Slack
-- WhatsApp
+.warning[Antes de iniciar con el desarrollo del módulo verificaremos que cuentes con las herramientas de comunicación y colaboración necesarias para la realización del mismo:
+- Zoom Meetings (visualización de diapositivas y video del facilitador)
+- Slack (chat primario, encuestas)
+- WhatsApp (chat administrativo y secundario)
+- Aplicación para captura de notas del curso (mencionamos OneNote como ejemplo, no es requerido)
 ]
+
+Nota: asegúrate de configurar todas las aplicaciones mencionadas con tu nombre y apellido así como matrícula del Tec entre paréntesis.
+
+P.e. Marciano Moreno (AL438131)
 ---
 ## Recursos de comunicación: Zoom Meetings
 
 .concept[
-    Zoom Meeting: Presentación de diapositivas y exposición de temas. Instalado en compuradora personal conectada a servicio residencial o de negocio de Internet de banda ancha. Recomendamos visualizar la ventana de contenido compartido y la de uso general de forma simultánea.
+    Zoom Meeting: Presentación de diapositivas y video del facilitador y de participantes. Instalado en computadora personal conectada a servicio residencial o de negocio de Internet de banda ancha. Recomendamos visualizar la ventana de contenido compartido y la de uso general de forma simultánea en pantallas independientes.
     ]
 
 .interstitial40[
@@ -29,7 +34,8 @@ Junto con tu experiencia y el conocimiento de datos  tendrás herramientas para 
 ## Recursos de comunicación: Slack
 
 .concept[
-    Slack: Chat interactivo, encuestas, ejemplos de código. Instalado en computadora personal conectada a servicio residencial o de negocio de Internet de banda ancha y en dispositivo móvil con servicio de datos a Internet independiente.
+    Slack: Chat interactivo, mención de personas, emojis 😎, conversaciones anidadas, encuestas, ejemplos de código. Instalado, de ser posible, en dispositivo móvil con servicio de datos a Internet independiente. 
+    Participantes cómodos con "multitasking": Aplicación de escritorio de Slack instalada en computadora personal conectada a servicio residencial o de negocio de Internet de banda ancha.
     ]
 .interstitial40[
 ![Slack logo](images/slack-rgb.png)
@@ -39,7 +45,7 @@ Junto con tu experiencia y el conocimiento de datos  tendrás herramientas para 
 ## Recursos de comunicación: WhatsApp
 
 .concept[
-    WhatsApp: Comunicación administrativa y en caso de pérdida de conexión primaria a Internet. Recomendamos ejecutar la aplicación desde un dispositivo móvil con servicio de datos a Internet independiente.
+    WhatsApp: Comunicación administrativa y alterna en caso de pérdida de conexión primaria a Internet. Instalado, de ser posible, en dispositivo móvil con servicio de datos a Internet independiente.
 ]
 
 .interstitial40[
@@ -52,13 +58,12 @@ class: pic
 
 ---
 class: pic
-    ![Student setup - 1 computer + 1 monitor](images/student-setup-2.png)
+    ![Student setup - 1 computer + 1 mobile](images/student-setup-2.png)
 
 ---
 class: pic
-    ![Student setup - 1 computer + 1 monitor + 1 mobile](images/student-setup-3.png)
+    ![Student setup - 1 computer + 1 mobile + 1 monitor](images/student-setup-3.png)
 
----
 ---
 ## Objetivo primordial del programa
 
@@ -71,7 +76,7 @@ Además lograrás interpretar los resultados generados por los modelos de análi
 ## Objetivo primordial del módulo
 
 .concept[
-    Conocer, aplicar e interpretar los resultados de modelos de análisis de datos no estructurados, aplicados al negocio.
+    Conocer, aplicar e interpretar los resultados de modelos de análisis de datos no estructurados, aplicados al negocio. 🙌
 ]
 
 Objetivos específicos
@@ -96,13 +101,30 @@ Objetivos específicos
 
 ---
 
+## Acerca de ti
+
+- Nos encontramos felices por tu participación en este módulo 😊
+
+- Cuando escuches tu nombre por favor activa tu micrófono y, de ser posible, video y preséntate en 30 segundos con el grupo indicando:
+    - Tu nombre
+
+    - ¿Cómo te encuentras el día de hoy?
+
+    - ¿Qué superpoder te gustaría tener?
+--
+
+¡Muchas gracias por tu participación! Continuamos...
+---
 <!-- TODO: Iniciamos -->
 ## Expectativas
-- Con base en los objetivos y agenda
-
-- ¿Qué expectativas tienes para este módulo?
+.messaging[
+    Responderás a un cuestionario que enviaremos por Slack para conocer tus expectativas respecto a este módulo.
+]
 
 ![Puzzled](https://media.giphy.com/media/l4JA1COQqiZB6/giphy.gif)
+
+
+
 
 <!-- TODO: Panorámica del curso (como gráfico)-->
 

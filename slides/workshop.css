@@ -32,12 +32,14 @@ code.remark-code {
 .exercise ul li code.remark-code.hljs.bash {
   padding: 0;
 }
-
-/* Adding support for concepts */
+/* Forcing a change*/
+/* Adding support for concepts and chat */
 .concept ul li code.remark-code.hljs.bash {
   padding: 0;
 }
-
+.messaging ul li code.remark-code.hljs.bash {
+  padding: 0;
+}
 /* For print! Borrowed from https://github.com/gnab/remark/issues/50 */
 @page {
   size: 1210px 681px;
@@ -201,7 +203,7 @@ div img {
   content: "Ejercicio";
   margin-left: 1.8em;
 }
-
+/* Adding support for concept and chat*/
 .concept {
   background-color: #eee;
   background-image: url("images/information.png");
@@ -212,6 +214,18 @@ div img {
 }
 .concept:before {
   content: "Concepto";
+  margin-left: 1.8em;
+}
+.messaging {
+  background-color: #eee;
+  background-image: url("images/chat.svg");
+  background-size: 1.4em;
+  background-repeat: no-repeat;
+  background-position: 0.2em 0.2em;
+  border: 2px dotted black;
+}
+.messaging:before {
+  content: "Actividad en chat";
   margin-left: 1.8em;
 }
 

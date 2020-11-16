@@ -22,11 +22,11 @@ content:
 - shared-es-mx/chat-room-im.md
 - shared/toc.md
 -
-  - textanalytics/introduction.md
-  - textanalytics/usecases.md
-
-- 
+  - textanalytics/unstructured-data-in-context.md
+  - textanalytics/use-cases.md
   - textanalytics/data-types.md
+  - textanalytics/text-analysis-techniques.md
+  - textanalytics/introduction.md
 -
   - k8s/prereqs-admin.md
   - k8s/architecture.md
