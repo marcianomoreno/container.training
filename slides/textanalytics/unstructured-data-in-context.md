@@ -40,12 +40,15 @@ https://insights.samsung.com/2017/09/08/machine-learning-text-analysis-unlocks-t
 ---
 ## Big Data y Analytics
 .concept[
-    BDA concept
+    El análisis de datos no estructurados forma parte de los servicios otorgados por plataformas tecnológicas en sitio y en la nube de Big Data con capacidades para obtener información del texto, organizar documentos por temas, entrenar modelos con datos propios y dar soporte a textos generales y específicos de industria.
 ]
-- b1
-- b2
+- Medios de acceso: APIs y servicios con modelos preentrenados, disponibles para uso remoto, así como librerías para clientes Web.
+- Retos para el análisis: Etiquetado de datasets grandes.
 
 ![Analytics icon](images/analytics.svg)
+???
+https://aws.amazon.com/comprehend/
+
 ---
 ## Nube
 .concept[
@@ -53,7 +56,7 @@ https://insights.samsung.com/2017/09/08/machine-learning-text-analysis-unlocks-t
 ]
 - Aplicaciones: Habilitación de aplicaciones de analítica de texto por medio de modelos PaaS y SaaS.
 - Medios de acceso: Contenedores, microservicios, interfaces programáticas APIs.
-- Retos: Integración con recursos tecnológicos en sitio, habilitar nube híbrida. Federación de datos.
+- Retos para el análisis: Integración con recursos tecnológicos en sitio, habilitar nube híbrida. Federación de datos.
 ![Cloud icon](images/cloud.svg)
 
 ???
@@ -66,11 +69,13 @@ https://www.ibmbigdatahub.com/blog/why-analyzing-text-so-hard
 
 ## Internet de las Cosas
 .concept[
-    IOT concept
+    Los datos capturados por dispositivos IoT pueden ser estructurados, no estructurados o semi estructurados. Los datos pueden incluir señales análogas, lecturas de sensores discretos, metadatos del estado operativo del dispositivo y archivos grandes de audio o video.
 ]
-- b1
-- b2
-
+- Aplicaciones: Gestión e interpretación de información de dispositivos IoT.
+- Retos para el análisis: Implementación de procesos de analítica automatizados.
+![IoT icon](images/iot.svg)
+???
+https://developer.ibm.com/technologies/iot/tutorials/iot-lp301-iot-manage-data/
 
 ---
 ## Actores que generan datos

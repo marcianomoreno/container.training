@@ -6,7 +6,35 @@
 - Minería de texto: Enfocado en la aplicación de machine learning y métodos estadísticos en un enfoque de tipo BOW (bag of words).
 
 - Analítica de texto: Evolución más amplia que integra técnicas de minería de datos, machine learning, procesamiento de lenguaje natural, recuperación de información y gestión de conocimiento.
-
+---
+## Análisis de texto
+- Text Analytics = Entendimiento de lenguaje natural + minería de texto
+- Extensión de minería de datos, descubrimiento de conocimento en texto (KDT)
+- La minería de datos clásica ser orienta al análisis de datos estructurados
+- Campo interdisciplinario con intersecciones en: extracción de información, machine learning, estadística, linguística computacional
+---
+## Proceso de análisis de texto
+- Recolección de documentos
+- Preprocesamiento
+- Análisis de texto (proceso iterativo)
+- 
+???
+PDF: Dialnet-TextAnalyticsTheConvergenceOfBigDataAndArtificialI-5573981
+---
+## Técnicas de análisis de datos
+- Segmentación de enunciados (sentence segmentation)
+- Generación de tokens (tokenization)
+- Etiquetado de partes del lenguaje (POS tagging)
+- Recuperación de información (Information Retrieval)
+- Reconocimiento de entidades nombradas (Named Entity Recognition)
+- Representación de Web con anotaciones semánticas (Semantic Web Annotated Representation)
+??? 
+PDF: Dialnet-TextAnalyticsTheConvergenceOfBigDataAndArtificialI-5573981
+---
+## Análisis de texto y otras disciplinas
+(dato no esctructurado) -> TA -> (dato estructurado)
+(dato estructurado) -> {KBs, ontología, machine learning}
+- 
 ---
 
 ## Recuperación de información (IR)

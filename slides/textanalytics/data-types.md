@@ -113,8 +113,9 @@
 
 - Personas (generan contenido contenido en)
     - Correo electrónico
-    - Documentos con texto
-    - Blogs, podcasts, v-logging (p.e. YouTubers)
+    - Documentos con texto: noticias, documentos académicos
+    - Documentos web: blogs, wikis,
+    - Audio y video: podcasts, v-logging (p.e. YouTubers)
     - Redes sociales
     - Aplicaciones de mensajería
     - Micrófonos de uso personal
@@ -124,7 +125,6 @@
     - Scanners (texto e imágenes)
     - Micrófonos de reconocimiento
     - Cámaras y videocámaras de reconocimiento
-    - 
 ---
 class: pic
 
