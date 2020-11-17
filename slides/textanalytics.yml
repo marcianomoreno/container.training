@@ -25,6 +25,7 @@ content:
 -
   - textanalytics/unstructured-data-in-context.md
   - textanalytics/use-cases.md
-  - textanalytics/data-types.md
+  - textanalytics/data-models.md
+  - textanalytics/unstructured-data-technologies.md
   - textanalytics/text-analysis-techniques.md
   - textanalytics/text-analysis-labs.md

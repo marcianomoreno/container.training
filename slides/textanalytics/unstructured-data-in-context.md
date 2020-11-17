@@ -84,14 +84,4 @@ https://developer.ibm.com/technologies/iot/tutorials/iot-lp301-iot-manage-data/
     - Usuarios
     - Máquinas
 
- 
----
-## Tecnología para análisis de datos no estructurados
-- El crecimiento desmesurado en información hace impráctico en análisis por medio de personas o grupos de personas.
-
-- A la par, se han desarrollado tecnologías para procesar datos no estructurados de forma eficiente y escalable
-    - NoSQL
-    - Big Data
-
-
 
