@@ -1,4 +1,4 @@
-# Opcional: Tecnologías de datos estructurados
+# Tecnologías de datos estructurados
 - CAP
 - ACID
 ---
