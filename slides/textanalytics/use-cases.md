@@ -26,7 +26,7 @@ class: pic
 ---
 ## Recuperación de información
 .concept[
-
+    Almacenamiento y recuperación de documentos de texto, incluyendo motores de búsqueda y búsqueda de palabras clave.
 ]
 - Producto deseado: Documentos que correspondan con palabras clave.
 - Temas de minería de texto: búsqueda de palabras clave, índice invertido, respuesta a preguntas.
@@ -34,16 +34,16 @@ class: pic
 ---
 ## Agrupación de documentos (Clustering)
 .concept[
-
+    Agrupación y términos de grupos aplicado a fragmentos de texto, párrafos o documentos empleando métodos de clustering de data mining.
 ]
 
 - Producto deseado: Documentos similares.
 - Algoritmos de minería de datos: K-means, Singular Value Decomposition (SVD).
 - Temas de minería de datos: clustering de documentos, similitud de documentos.
 ---
-## Clasificación
+## Clasificación de documentos
 .concept[
-
+    Asignación de etiquetas predefinidas a fragmentos de texto, párrafos o documentos empleando métodos de clasificación de data mining, basado en modelos entrenados o instancias etiquetadas.
 ]
 
 - Producto deseado: Documentos únicos.
@@ -52,7 +52,7 @@ class: pic
 ---
 ## Minería Web
 .concept[
-
+    Minería de datos y textos de contenido en Internet enfocado en la escala e interconectividad del Web.
 ]
 
 - Producto deseado: Comprensión de contenido Web.
@@ -60,7 +60,7 @@ class: pic
 ---
 ## Extracción de información
 .concept[
-
+    Identificación y extracción de hechos y relaciones relevantes a partir de texto no estructurado. Incluye el proceso de crear datos estructurados a partir de texto no estructurado o semiestructurado.
 ]
 
 - Producto deseado: Una base de datos estructurada.
@@ -68,7 +68,7 @@ class: pic
 ---
 ## Extracción de conceptos
 .concept[
-
+    Creación de grupos de palabras y frases en grupos semánticamente similares.
 ]
 
 - Producto deseado: Lista de sinónimos.
@@ -76,7 +76,7 @@ class: pic
 ---
 ## Procesamiento de lenguaje natural
 .concept[
-
+    Procesamiento de bajo nivel y tareas de comprensión (p.e. etiquetado y partes del discurso - POS). El término linguística computacional se considera equivalente.
 ]
 
 - Producto deseado: Enunciados con componentes identificados (subrayados).
