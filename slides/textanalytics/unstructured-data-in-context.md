@@ -1,5 +1,20 @@
 # Datos no estructurados en contexto
 .concept[
+El análisis y la minería de texto se ocupan de transformar texto a una representación numérica para aplicar algoritmos analíticos a una colección grande de documentos.
+]
+- Requiere de principios de otras disciplinas: procesamiento de lenguaje natural, estadística, inteligencia artificial, bases de datos, minería de datos y ciencias de la información.
+
+- Emplea tecnologías que compiten entre sí que se encuentra en diversos grados de madurez y accesibilidad (comercial, academia). 
+
+- 80% de la información es no estructurada.
+
+- El acervo de información no estructurada crece de forma exponencial.
+
+---
+class: pic
+![Text analytics itersections overview](images/text-analytics-intersections-overview.png)
+---
+.concept[
     El análisis de datos no estructurados cobra relevancia debido a que la mayor parte de los datos de una organización son de este tipo. Analizaremos los factores que han contribuido a su crecimiento y las oportunidades que existen para realizar valor con ellos.
 ]
 

@@ -1,4 +1,4 @@
-# Técnicas de análisis de texto
+# Procesos y técnicas de minería de texto
 
 .concept[La analítica de texto extrae significado, patrones y estructura a partir de datos de texto no estructurado.
 ]
@@ -12,6 +12,42 @@
 - Extensión de minería de datos, descubrimiento de conocimento en texto (KDT)
 - La minería de datos clásica ser orienta al análisis de datos estructurados
 - Campo interdisciplinario con intersecciones en: extracción de información, machine learning, estadística, linguística computacional
+---
+## Clasificación de técnicas de analítica de texto
+- Recuperación de información (Information Retrieval, IR)
+- Análisis exploratorio
+- Extracción de conceptos
+- Generación de síntesis informativa
+- Categorización
+- Análisis de sentimiento
+- Gestión de contenido
+- Gestión de ontologías
+
+---
+## Recuperación de información (IR)
+.concept[
+    Encontrar material (documentos, típicamente) de naturaleza no estructurada (texto, generalmente) que satisfaga una necesidad de información con respecto a colecciones grandes (generalmente almacenadas en documentos).
+]
+
+- Precursores: bibliotecarios, asistentes legales.
+
+- Actualmente: cientos de millones de usuarios cuando realizan búsquedas en motores de búsqueda o en su correo.
+
+- IR también abarca el soporte a usuarios para examinar y filtrar colecciones de documentos o procesar documentos recuperados.
+
+---
+
+## Escala de sistemas de IR
+
+- Web: billones de documentos almacenados en billones de computadoras
+
+- Empresarial: documentos internos de la organización, patentes, artículos de investigación
+
+- Información personal: documentos almacenados en un dispositivo de uso personal (p.e. computadora)
+---
+## Relevancia
+
+- La práctica de Information Retrieval (IR), la recuperación de información, se está volviendo la forma predominante de acceso a la información.
 ---
 ## Proceso de análisis de texto
 - Recolección de documentos
@@ -37,30 +73,6 @@ PDF: Dialnet-TextAnalyticsTheConvergenceOfBigDataAndArtificialI-5573981
 - 
 ---
 
-## Recuperación de información (IR)
-.concept[
-    Encontrar material (documentos, típicamente) de naturaleza no estructurada (texto, generalmente) que satisfaga una necesidad de información con respecto a colecciones grandes (generalmente almacenadas en documentos).
-]
-
-- Precursores: bibliotecarios, asistentes legales.
-
-- Actualmente: cientos de millones de usuarios cuando realizan búsquedas en motores de búsqueda o en su correo.
-
-- IR también abarca el soporte a usuarios para examinar y filtrar colecciones de documentos o procesar documentos recuperados.
-
----
-
-## Escala de sistemas de IR
-
-- Web: billones de documentos almacenados en billones de computadoras
-
-- Empresarial: documentos internos de la organización, patentes, artículos de investigación
-
-- Información personal: documentos almacenados en un dispositivo de uso personal (p.e. computadora)
----
-## Relevancia
-
-- La práctica de Information Retrieval (IR), la recuperación de información, se está volviendo la forma predominante de acceso a la información.
 ---
 
 ## Análisis exploratorio

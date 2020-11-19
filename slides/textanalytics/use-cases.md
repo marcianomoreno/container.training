@@ -1,4 +1,13 @@
-# Casos de uso de analísis de datos no estructurados
+# Campos de aplicación de análisis de datos no estructurados
+.concept[
+    El análisis de datos no estructurados tiene diversas áreas de aplicación que pueden ser del interés para los involucrados en una solución.
+]
+---
+class: pic
+![Text analytics practice areas overview](images/text-analytics-practice-areas-overview.png)
+
+---
+## Casos de uso de analísis de datos no estructurados
 
 - Identificación de tendencias en documentos
 - Clasificación de documentos
@@ -6,6 +15,13 @@
 - Análisis de asociaciones e identificación de causas raíz
 - Mejora de modelos predictivos con datos de texto
 - Detección de opiniones
+---
+class: pic
+![Text analytics intersections](images/text-analytics-intersections.png)
+???
+https://www.elderresearch.com/hubfs/Whitepaper_The_Seven_Practice_Areas_of_Text_Analytics_Chapter_2_Excerpt.pdf
+
+
 ---
 ## Síntesis de documentos (noticias, artículos)
 .concept[

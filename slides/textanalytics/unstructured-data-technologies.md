@@ -23,8 +23,21 @@
 ---
 
 
+
 - El crecimiento desmesurado en información hace impráctico en análisis por medio de personas o grupos de personas.
 
 - A la par, se han desarrollado tecnologías para procesar datos no estructurados de forma eficiente y escalable
     - NoSQL
     - Big Data
+---
+## NoSQL
+- key/value
+- wide column
+- graph
+- document
+---
+## MongoDB
+---
+## Neo4J
+---
+## Cassandra
