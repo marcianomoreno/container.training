@@ -7,6 +7,81 @@ class: pic
 ![Text analytics practice areas overview](images/text-analytics-practice-areas-overview.png)
 
 ---
+## Campos de aplicación de análisis de texto
+
+|Campo|Descripción|
+|---|---|
+|Búsqueda y recuperación de información|Indexar, buscar y recuperar documentos de bases de datos grandes con consultas de claves|
+|Agrupación de documentos|Aplica algoritmos de minería de datos para agrupar documentos similares (en clusters)|
+|Clasificación de documentos|Asigna un conjunto definido de etiquetas a documentos no etiquetados|
+|Minería web|Analiza los documentos Web y sus enlaces. Apalanca tecnologías de clasificación de documentos y comprensión de lenguaje natural|
+|Extracción de información|Construye datos estructurados a partir de texto no estructurado|
+|Procesamiento de lenguaje natural|Provee de variables de entrada para procesos de minería de texto tales como etiquetas de parte de lenguaje y fronteras de frases|
+|Extracción de conceptos|Sistemas automatizados que "comprenden" el significado del texto|
+
+---
+class: pic
+![Text analytics practice decision fllow](images/text-analytics-practice-decision-flow.png)
+
+---
+## Recuperación de información
+.concept[
+
+]
+- Producto deseado: Documentos que correspondan con palabras clave.
+- Temas de minería de texto: búsqueda de palabras clave, índice invertido, respuesta a preguntas.
+
+---
+## Agrupación de documentos (Clustering)
+.concept[
+
+]
+
+- Producto deseado: Documentos similares.
+- Algoritmos de minería de datos: K-means, Singular Value Decomposition (SVD).
+- Temas de minería de datos: clustering de documentos, similitud de documentos.
+---
+## Clasificación
+.concept[
+
+]
+
+- Producto deseado: Documentos únicos.
+- Algoritmos de minería de datos: Naïve Bayes, Singular Value Decomposition (SVD), Regresión Logística, Árboles de Decisión, Redes Neuronales, Máquinas de Soporte Vectorial, MARSplines
+- Temas de minería de datos: selección de características, análisis de sentimiento, reducción de dimensiones, eDiscovery.
+---
+## Minería Web
+.concept[
+
+]
+
+- Producto deseado: Comprensión de contenido Web.
+- Temas de minería de datos: análisis de sentimiento, "navegación" (crawling) Web, análisis de enlaces.
+---
+## Extracción de información
+.concept[
+
+]
+
+- Producto deseado: Una base de datos estructurada.
+- Temas de minería de datos: extracción de entidades, extracción de enlaces.
+---
+## Extracción de conceptos
+.concept[
+
+]
+
+- Producto deseado: Lista de sinónimos.
+- Temas de modelado de datos: modelado de tópicos, identificación de sinónimos.
+---
+## Procesamiento de lenguaje natural
+.concept[
+
+]
+
+- Producto deseado: Enunciados con componentes identificados (subrayados).
+- Temas de modelado de datos: etiquetado de partes del discurso (part of speech tagging, POS), tokenización, respuesta a preguntas
+---
 ## Casos de uso de analísis de datos no estructurados
 
 - Identificación de tendencias en documentos
