@@ -1,0 +1,20 @@
+FROM alpine
+RUN apt-get update -y && \
+    apt-get install -y apt-utils \
+        default-jre \
+        default-jdk \
+        ant \
+        unzip \
+        wget  \
+        git
+RUN wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip
+RUN mkdir /CoreNLP; \
+    unzip stanford-corenlp-latest.zip -d /CoreNLP; \
+    cd /CoreNLP/stanford-corenlp-*; \
+    mv * /CoreNLP; \
+    cd /CoreNLP; \
+    export CLASSPATH=""; for file in `find . -name "*.jar"`; do export CLASSPATH="$CLASSPATH:`realpath $file`"; done
+ENV PORT 9000
+EXPOSE 9000
+WORKDIR /CoreNLP
+ENTRYPOINT tail -f /dev/null
