@@ -18,9 +18,9 @@ class: pic
     El análisis de datos no estructurados cobra relevancia debido a que la mayor parte de los datos de una organización son de este tipo. Analizaremos los factores que han contribuido a su crecimiento y las oportunidades que existen para realizar valor con ellos.
 ]
 
-- SMACIT = Social, Mobile, Cloud, Big Data Analytics, Internet of Things
-- Crecimiento datos de 100x cada diez años
-- 80% de los datos existentes son no estructurados
+- SMACIT = Social, Mobile, Cloud, Big Data Analytics, Internet of Things.
+- Crecimiento datos de 100x cada diez años.
+- 80% de los datos existentes son no estructurados.
 
 ![SMACIT](images/smacit.png)
 <!-- SMACIT = Social, Mobile, Cloud, Big Data Analytics, Internet of Things -->
@@ -95,8 +95,8 @@ https://developer.ibm.com/technologies/iot/tutorials/iot-lp301-iot-manage-data/
 ---
 ## Actores que generan datos
 - Nuevos actores involucrados en la generación de información
-    - Empleados
-    - Usuarios
-    - Máquinas
+    - Empleados.
+    - Usuarios.
+    - Máquinas.
 
 

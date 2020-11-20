@@ -2,23 +2,24 @@
 
 Agradecemos tu interés en el mudo del análisis de datos aplicado al negocio, promoveremos que sigas valorando la relevancia de los datos en tu organización.
 
-Junto con tu experiencia y el conocimiento de datos  tendrás herramientas para tomar mejores decisiones
+Junto con tu experiencia y el conocimiento de datos  tendrás herramientas para tomar mejores decisiones.
 
+???
 ![Welcome](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
 ---
 
 ## Recursos de comunicación
 .warning[Antes de iniciar con el desarrollo del módulo verificaremos que cuentes con las herramientas de comunicación y colaboración necesarias para la realización del mismo:
-- Zoom Meetings (visualización de diapositivas y video del facilitador)
-- Slack (chat primario, encuestas)
-- WhatsApp (chat administrativo y secundario)
-- Aplicación para captura de notas del curso (mencionamos OneNote como ejemplo, no es requerido)
+- Zoom Meetings (visualización de diapositivas y video del facilitador).
+- Slack (chat primario, encuestas).
+- WhatsApp (chat administrativo y secundario).
+- Aplicación para captura de notas del curso (mencionamos OneNote como ejemplo, no es requerido).
 ]
 
 Nota: asegúrate de configurar todas las aplicaciones mencionadas con tu nombre y apellido así como matrícula del Tec entre paréntesis.
 
-P.e. Marciano Moreno (AL438131)
+P.e. Marciano Moreno (AL[dddddd])
 ---
 ## Recursos de comunicación: Zoom Meetings
 
@@ -80,25 +81,25 @@ Además lograrás interpretar los resultados generados por los modelos de análi
 ]
 
 Objetivos específicos
-- Conocerás la relevancia del análisis de datos no estructurados
-- Conocerás los principales casos de uso de análisis de datos no estructurados
-- Conocerás los principios y tecnologías relacionados con análisis de datos no estructurados
-- Conocerás las principales herramientas, plataformas y servicios para análisis de datos no estructurados
-    - Datos semiestructurados
-    - Datos no estructurados
-- Realizarás ejercicios prácticos introductorios con herramientas, plataformas y servicios para análisis de datos no estructurados
+- Conocerás la relevancia del análisis de datos no estructurados.
+- Conocerás los principales casos de uso de análisis de datos no estructurados.
+- Conocerás los principios y tecnologías relacionados con análisis de datos no estructurados.
+- Conocerás las principales herramientas, plataformas y servicios para análisis de datos no estructurados.
+    - Datos semiestructurados.
+    - Datos no estructurados.
+- Realizarás ejercicios prácticos introductorios con herramientas, plataformas y servicios para análisis de datos no estructurados.
 
 ---
 ## Acerca de tu facilitador
 
 - 👽 Marciano Moreno ([@marciano_moreno](https://twitter.com/marciano_moreno))
-    - Profesor externo Educación Ejecutiva
+    - Profesor externo Educación Ejecutiva.
     
-    - Fundador y Director General de NAYLA
+    - Fundador y Director General de NAYLA.
 
-    - Me apasionan la investigación aplicada e ingeniería de software
+    - Me apasionan la investigación aplicada e ingeniería de software.
 
-    - Trabajé 2 décadas en Microsoft México
+    - Trabajé 2 décadas en Microsoft México.
 
 ---
 
@@ -107,11 +108,13 @@ Objetivos específicos
 - Nos encontramos felices por tu participación en este módulo 😊
 
 - Cuando escuches tu nombre por favor activa tu micrófono y, de ser posible, video y preséntate en 30 segundos con el grupo indicando:
-    - Tu nombre
+    - Tu nombre.
 
     - ¿Cómo te encuentras el día de hoy?
 
-    - ¿Qué superpoder te gustaría tener?
+    - ¿Cuál es tu formación profesional?
+
+    - ¿Qué afición tienes (p.e. hobbies)?
 --
 
 ¡Muchas gracias por tu participación! Continuamos...
@@ -121,7 +124,7 @@ Objetivos específicos
 .messaging[
     Responderás a un cuestionario que enviaremos por Slack para conocer tus expectativas respecto a este módulo.
 ]
-
+???
 ![Puzzled](https://media.giphy.com/media/l4JA1COQqiZB6/giphy.gif)
 
 

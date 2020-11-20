@@ -26,23 +26,23 @@ class: pic
 ## Datos estructurados: fuentes
 
 - Aplicaciones
-    - Sistemas transaccionales (POS, ERP, CRM)
-    - Sistemas de soporte a la operación
-    - Formularios en línea 
+    - Sistemas transaccionales (POS, ERP, CRM).
+    - Sistemas de soporte a la operación.
+    - Formularios en línea.
 
 - Máquinas
-    - Kioskos (autoservicio)
-    - Sensores
-    - Dispositivos industriales
+    - Kioskos (autoservicio).
+    - Sensores.
+    - Dispositivos industriales.
 
 ---
 ## Modelo base de datos relacional: análisis y reportes
 
-- El data warehouse es un sistema para reportes y análisis de datos
+- El data warehouse es un sistema para reportes y análisis de datos.
 
-- Considerado el componente central para inteligencia de negocio
+- Considerado el componente central para inteligencia de negocio.
 
-- Las bases de datos relacionales son una fuente de datos común para el Data Warehouse
+- Las bases de datos relacionales son una fuente de datos común para el Data Warehouse.
 
 ---
 class: pic
@@ -61,46 +61,46 @@ class: pic
 - La información no está almacenada de forma que pueda accederse (o modificarse fácilmente) por aplicaciones.
 
 - Ejemplos: 
-    - texto libre
-    - contenido de gráficos, audio y video
-    - contenido de documentos empresariales, mensajes de correo electrónico
+    - texto libre.
+    - contenido de gráficos, audio y video.
+    - contenido de documentos empresariales, mensajes de correo electrónico.
 
 ---
 
 ## Datos no estructurados: fuentes
 
-- Contenido generado por personas en las siguientes herramientas
-    - Correo electrónico
-    - Documentos con texto: noticias, documentos académicos
-    - Documentos web: blogs, wikis,
+- Contenido generado por personas en las siguientes herramientas:
+    - Correo electrónico.
+    - Documentos con texto: noticias, documentos académicos.
+    - Documentos web: blogs, wikis.
     - Audio y video: podcasts, v-logging (p.e. YouTubers)
-    - Redes sociales
-    - Aplicaciones de mensajería
-    - Micrófonos de uso personal
-    - Cámaras y videocámaras de uso personal
-    - Aplicaciones de videoconferencias
+    - Redes sociales.
+    - Aplicaciones de mensajería.
+    - Micrófonos de uso personal.
+    - Cámaras y videocámaras de uso personal.
+    - Aplicaciones de videoconferencias.
 - Contenido generado por máquinas con las siguientes tecnologías:
-    - Scanners (texto e imágenes)
-    - Micrófonos de reconocimiento
-    - Cámaras y videocámaras de reconocimiento
+    - Scanners (texto e imágenes).
+    - Micrófonos de reconocimiento.
+    - Cámaras y videocámaras de reconocimiento.
 ---
 ## Modelos de datos no estructurados: retos
 
-- Históricamente ha sido difícil analizar los datos no estructurados
+- Históricamente ha sido difícil analizar los datos no estructurados.
 
-- La diversidad de formatos representa un reto para las herramientas convencionales de software  para ingestar, procesar y analizar
+- La diversidad de formatos representa un reto para las herramientas convencionales de software  para ingestar, procesar y analizar.
 
-- Su falta de estructura interna implica la aplicación de procesos de transformación para emplearse con sistemas convencionales de minería de datos
+- Su falta de estructura interna implica la aplicación de procesos de transformación para emplearse con sistemas convencionales de minería de datos.
 
-- El análisis de datos no estructurados ha sido posible gracias a la integración de tecnologías de inteligencia artificial y aprendizaje de máquina (machine learning) a herramientas de análisis de datos
+- El análisis de datos no estructurados ha sido posible gracias a la integración de tecnologías de inteligencia artificial y aprendizaje de máquina (machine learning) a herramientas de análisis de datos.
 
 ---
 
 ## Modelos de datos no estructurados: presencia
 
-- Los datos no estructurados representan la mayoría de la información de las organizaciones
+- Los datos no estructurados representan la mayoría de la información de las organizaciones.
 
-- EMC estimó el crecimiento de datos no estructurados de 2010 a 2020 sería de 50 veces, representando 40 zettabytes
+- EMC estimó el crecimiento de datos no estructurados de 2010 a 2020 sería de 50 veces, representando 40 zettabytes.
 
 
 ---
@@ -114,10 +114,10 @@ class: pic
 ---
 
 ## Datos semiestructurados: fuentes
-- Aplicaciones
+- Aplicaciones.
 
-- Máquinas
-    - Sensores (temperatura, proximidad, presión, iluminación, humo, gas, alcohol)
+- Máquinas:
+    - Sensores (temperatura, proximidad, presión, iluminación, humo, gas, alcohol).
 ---
 ## HTML: Hypertext Markup Language
 .concept[

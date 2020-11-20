@@ -9,7 +9,7 @@ class: title, self-paced
 class: title, in-person
 
 @@TITLE@@<br/></br>
-
+???
 .footnote[
 **Diapositivas[:](https://www.youtube.com/watch?v=h16zyxiwDLY) @@SLIDES@@**
 ]

@@ -4,13 +4,13 @@
 
   @@SLIDES@@
 
-- Usa las flechas del teclado para avanzar o reetroceder en las láminas
+- Usa las flechas del teclado para avanzar o reetroceder en las láminas.
 
   (arriba, abajo, izquierda, derecha, pag arr, pag ab)
 
-- Escribe un número de lámina y oprime ENTER para ir a ella
+- Escribe un número de lámina y oprime ENTER para ir a ella.
 
-- El número de lámina también está visible en la barra del URL
+- El número de lámina también está visible en la barra del URL.
 
   (p.e. .../#123 para la lámina 123)
 
@@ -18,16 +18,16 @@
 
 ## Accediendo a las láminas después
 
-- Las láminas quedarán en línea para que puedas revisarlas después en caso de ser requerido
+- Las láminas quedarán en línea para que puedas revisarlas después en caso de ser requerido.
 
-  (las láminas estarán disponibles por lo menos un año despúes de este curso)
+  (las láminas estarán disponibles por lo menos un año despúes de este curso).
 
 - Es posible descargar las láminas por medio del siguiente URL:
 
   @@ZIP@@
 
   (extrae el archivo `@@HTML@@`)
-
+???
 - Encontrarás nuevas versiones de estas láminas en:
 
   https://container.training/
@@ -36,9 +36,9 @@
 
 ## Estás láminas son open source
 
-- Eres bienvenido a usar, reutilizar y compartir estas láminas
+- Eres bienvenido a usar, reutilizar y compartir estas láminas.
 
-- Estas láminas fueron escritas en markdown!
+- ¡Estas láminas fueron escritas en markdown!
 
 - El origen de estas láminas está disponible en el repositorio público de GitHub
 
@@ -60,15 +60,15 @@ class: extra-details
 
 ## Detalles adicionales
 
-- Esta lámina tiene una lupa en la esquina superior izquierda
+- Esta lámina tiene una lupa en la esquina superior izquierda.
 
-- Esta lupa significa que la lámina provee detalles adicionales
+- Esta lupa significa que la lámina provee detalles adicionales.
 
 - Siéntete libre de pasarla si:
-  - tienes prisa
+  - tienes prisa.
 
-  - estás iniciando y quieres evitar sobrecarga cognitiva
+  - estás iniciando y quieres evitar sobrecarga cognitiva.
 
-  - solo estás buscando la información esencial
+  - solo estás buscando la información esencial.
 
-- Puedes revisar estas láminas más adelante si quieres, estaremos al pendiente de ti ☺
+- Puedes revisar estas láminas más adelante si quieres, estaremos al pendiente de ti. ☺

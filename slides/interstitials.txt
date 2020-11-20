@@ -1,3 +1,11 @@
+images/tec-ec.png
+images/tec-ec.png
+images/tec-ec.png
+images/tec-ec.png
+images/tec-ec.png
+images/tec-ec.png
+images/tec-ec.png
+images/tec-ec.png
 https://gallant-turing-d0d520.netlify.com/containers/Container-Ship-Freighter-Navigation-Elbe-Romance-1782991.jpg
 https://gallant-turing-d0d520.netlify.com/containers/ShippingContainerSFBay.jpg
 https://gallant-turing-d0d520.netlify.com/containers/aerial-view-of-containers.jpg

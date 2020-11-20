@@ -19,32 +19,32 @@ https://www.researchgate.net/post/What_is_the_Best_Database_Structure_for_Big_Da
 class: extra-details
 
 ## Modelo de base de datos relacional: concepto
-- Enfoque para administrar datos utilizando una estructura y lenguaje consistente con la lógica de predicados de primer orden
+- Enfoque para administrar datos utilizando una estructura y lenguaje consistente con la lógica de predicados de primer orden.
 
-- Descrita en 1969 por Edgar F. Codd
+- Descrita en 1969 por Edgar F. Codd.
 
-- Los datos se representan en tuplas, agrupadas en relaciones
+- Los datos se representan en tuplas, agrupadas en relaciones.
 
-- Una base de datos organizada en términos de un modelo relacional se conoce como base de datos relacional
+- Una base de datos organizada en términos de un modelo relacional se conoce como base de datos relacional.
 
 ---
 class: extra-details
 ## Modelo de base de datos relacional: declarativo
 
-- El modelo relacional provee de un método declarativo para especificar datos y consultas
+- El modelo relacional provee de un método declarativo para especificar datos y consultas.
 
-- Los usuarios especifican directamente qué información contendrá la base de datos y qué información desea extraer de ella
+- Los usuarios especifican directamente qué información contendrá la base de datos y qué información desea extraer de ella.
 
-    - Los usuarios no especifican el control de flujo para obtener la información de interés
+    - Los usuarios no especifican el control de flujo para obtener la información de interés.
 
 ---
 
 ## Modelo de base de datos relacional: lenguajes de definición y consulta
 
-- SQL (Structured Query Language) es un lenguaje de dominio específico empleado para administrar y obtener datos de bases relacionales
+- SQL (Structured Query Language) es un lenguaje de dominio específico empleado para administrar y obtener datos de bases relacionales (p.e. Microsoft SQL Server).
 
-- SQL introdujo la capacidad de acceder a múltiples registros por medio de un comando y no requiere especificar la forma de acceder a la información
+- SQL introdujo la capacidad de acceder a múltiples registros por medio de un comando y no requiere especificar la forma de acceder a la información.
 
-- SQL cuenta con un lenguaje de definición (DDL, Data Definition Language) y otro de consulta (DQL, Data Query Language)
+- SQL cuenta con un lenguaje de definición (DDL, Data Definition Language) y otro de consulta (DQL, Data Query Language).
 
 
