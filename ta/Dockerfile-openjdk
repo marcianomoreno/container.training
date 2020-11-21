@@ -1,0 +1,16 @@
+FROM openjdk:alpine
+RUN apk update && \
+    apk add git
+RUN wget https://downloads.apache.org/ant/binaries/apache-ant-1.9.15-bin.tar.gz && /
+    tar -x -f apache-ant-1.9.15-bin.tar.gz -z
+RUN wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip; && \
+    mkdir /CoreNLP; \
+    unzip stanford-corenlp-latest.zip -d /CoreNLP; \
+    cd /CoreNLP/stanford-corenlp-*; \
+    mv * /CoreNLP; \
+    cd /CoreNLP; \
+    export CLASSPATH=""; for file in `find . -name "*.jar"`; do export CLASSPATH="$CLASSPATH:`realpath $file`"; done
+ENV PORT 9000
+EXPOSE 9000
+WORKDIR /CoreNLP
+ENTRYPOINT tail -f /dev/null
