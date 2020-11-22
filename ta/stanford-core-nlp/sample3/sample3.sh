@@ -1,0 +1,1 @@
+java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -props sampleProps.properties -file input-es-mx.txt

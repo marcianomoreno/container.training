@@ -1,6 +1,7 @@
 FROM alpine
 RUN apk update && \
-    apk add git
+    apk add git &&
+    apk add bash
 RUN wget https://download.java.net/java/early_access/alpine/23/binaries/openjdk-16-ea+23_linux-x64-musl_bin.tar.gz; \
     tar -x -f openjdk-16-ea+23_linux-x64-musl_bin.tar.gz
 ENV JAVA_HOME=/jdk-16
@@ -14,10 +15,11 @@ RUN wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip; \
     unzip stanford-corenlp-latest.zip -d /CoreNLP; \
     cd /CoreNLP/stanford-corenlp-*; \
     mv * /CoreNLP; \
-    cd /CoreNLP; \
-    CLASSPATH=""; for file in `find . -name "*.jar"`; do export CLASSPATH="$CLASSPATH:`realpath $file`"; done
-ENV CLASSPATH=$CLASSPATH
+    export CLASSPATH=""; for file in `find . -name "*.jar"`; do export CLASSPATH="$CLASSPATH:`realpath $file`"; done
+WORKDIR /CoreNLP
+RUN WGET http://nlp.stanford.edu/software/stanford-corenlp-4.2.0-models-spanish.jar
+COPY classpath.sh .
+RUN chmod +x classpath.sh
 ENV PORT 9000
 EXPOSE 9000
-WORKDIR /CoreNLP
 ENTRYPOINT tail -f /dev/null

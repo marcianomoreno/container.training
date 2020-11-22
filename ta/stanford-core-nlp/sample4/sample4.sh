@@ -1,0 +1,1 @@
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit -file input-es-mx.txt -outputFormat conll -output.columns word

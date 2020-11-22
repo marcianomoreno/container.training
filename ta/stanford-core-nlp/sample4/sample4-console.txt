@@ -1,0 +1,12 @@
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator tokenize
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator ssplit
+
+Processing file /CoreNLP/input-es-mx.txt ... writing to /CoreNLP/input-es-mx.txt.conll
+Annotating file /CoreNLP/input-es-mx.txt ... done [0.1 sec].
+
+Annotation pipeline timing information:
+TokenizerAnnotator: 0.1 sec.
+WordsToSentencesAnnotator: 0.0 sec.
+TOTAL: 0.1 sec. for 69 tokens at 669.9 tokens/sec.
+Pipeline setup: 0.1 sec.
+Total time for StanfordCoreNLP pipeline: 0.3 sec.

@@ -1,0 +1,35 @@
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator tokenize
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator ssplit
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator mwt
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator pos
+[main] INFO edu.stanford.nlp.tagger.maxent.MaxentTagger - Loading POS tagger from edu/stanford/nlp/models/pos-tagger/spanish-ud.tagger ... done [0.8 sec].
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator lemma
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator ner
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - sutime.language=spanish
+[main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/spanish.ancora.distsim.s512.crf.ser.gz ... done [1.2 sec].
+[main] INFO edu.stanford.nlp.time.JollyDayHolidays - Initializing JollyDayHoliday for SUTime from classpath edu/stanford/nlp/models/sutime/jollyday/Holidays_sutime.xml as sutime.binder.1.
+[main] INFO edu.stanford.nlp.time.TimeExpressionExtractorImpl - Using following SUTime rules: edu/stanford/nlp/models/sutime/defs.sutime.txt,edu/stanford/nlp/models/sutime/spanish.sutime.txt
+[main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - spanish.number.regexner: Read 3 unique entries out of 3 from edu/stanford/nlp/models/kbp/spanish/gazetteers/kbp_regexner_number_sp.tag, 0 TokensRegex patterns.
+[main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 50998 unique entries out of 50999 from edu/stanford/nlp/models/kbp/spanish/gazetteers/kbp_regexner_mapping_sp.tag, 0 TokensRegex patterns.
+[main] INFO edu.stanford.nlp.pipeline.NERCombinerAnnotator - numeric classifiers: true; SUTime: true [no docDate]; fine grained: true
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator depparse
+[main] INFO edu.stanford.nlp.parser.nndep.DependencyParser - Loading depparse model: edu/stanford/nlp/models/parser/nndep/UD_Spanish.gz ... Time elapsed: 2.0 sec
+[main] INFO edu.stanford.nlp.parser.nndep.Classifier - PreComputed 20000 vectors, elapsed Time: 5.163 sec
+[main] INFO edu.stanford.nlp.parser.nndep.DependencyParser - Initializing dependency parser ... done [7.1 sec].
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator kbp
+
+Processing file /CoreNLP/input-es-mx.txt ... writing to /CoreNLP/input-es-mx.txt.out
+Annotating file /CoreNLP/input-es-mx.txt ... done [1.0 sec].
+
+Annotation pipeline timing information:
+TokenizerAnnotator: 0.0 sec.
+WordsToSentencesAnnotator: 0.0 sec.
+MWTAnnotator: 0.0 sec.
+POSTaggerAnnotator: 0.0 sec.
+MorphaAnnotator: 0.1 sec.
+NERCombinerAnnotator: 0.2 sec.
+DependencyParseAnnotator: 0.3 sec.
+KBPAnnotator: 0.3 sec.
+TOTAL: 0.9 sec. for 69 tokens at 73.1 tokens/sec.
+Pipeline setup: 12.6 sec.
+Total time for StanfordCoreNLP pipeline: 13.6 sec.

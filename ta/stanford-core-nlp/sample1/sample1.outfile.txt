@@ -1,0 +1,154 @@
+Document: ID=input-es-mx.txt (1 sentences, 69 tokens)
+
+Sentence #1 (69 tokens):
+Maribel Cervantes Guerrero, secretaria de Seguridad del Estado de México, admitió que el principal problema que enfrenta la población es el robo en todas sus modalidades, especialmente a transeúnte, de transporte y vehículos, aunque a la fecha continúan con la investigación para conocer si el robo de autos está vinculado con la operación de células delictivas dedicadas a la extorsión y el secuestro.
+
+Tokens:
+[Text=Maribel CharacterOffsetBegin=0 CharacterOffsetEnd=7 PartOfSpeech=NNP Lemma=Maribel NamedEntityTag=PERSON]
+[Text=Cervantes CharacterOffsetBegin=8 CharacterOffsetEnd=17 PartOfSpeech=NNP Lemma=Cervantes NamedEntityTag=PERSON]
+[Text=Guerrero CharacterOffsetBegin=18 CharacterOffsetEnd=26 PartOfSpeech=NNP Lemma=Guerrero NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=26 CharacterOffsetEnd=27 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=secretaria CharacterOffsetBegin=28 CharacterOffsetEnd=38 PartOfSpeech=FW Lemma=secretaria NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=39 CharacterOffsetEnd=41 PartOfSpeech=FW Lemma=de NamedEntityTag=O]
+[Text=Seguridad CharacterOffsetBegin=42 CharacterOffsetEnd=51 PartOfSpeech=FW Lemma=seguridad NamedEntityTag=O]
+[Text=del CharacterOffsetBegin=52 CharacterOffsetEnd=55 PartOfSpeech=FW Lemma=del NamedEntityTag=O]
+[Text=Estado CharacterOffsetBegin=56 CharacterOffsetEnd=62 PartOfSpeech=FW Lemma=estado NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=63 CharacterOffsetEnd=65 PartOfSpeech=FW Lemma=de NamedEntityTag=O]
+[Text=México CharacterOffsetBegin=66 CharacterOffsetEnd=72 PartOfSpeech=NNP Lemma=México NamedEntityTag=COUNTRY]
+[Text=, CharacterOffsetBegin=72 CharacterOffsetEnd=73 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=admitió CharacterOffsetBegin=74 CharacterOffsetEnd=81 PartOfSpeech=NN Lemma=admitió NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=82 CharacterOffsetEnd=85 PartOfSpeech=NN Lemma=que NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=86 CharacterOffsetEnd=88 PartOfSpeech=NNP Lemma=el NamedEntityTag=O]
+[Text=principal CharacterOffsetBegin=89 CharacterOffsetEnd=98 PartOfSpeech=JJ Lemma=principal NamedEntityTag=TITLE]
+[Text=problema CharacterOffsetBegin=99 CharacterOffsetEnd=107 PartOfSpeech=NN Lemma=problema NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=108 CharacterOffsetEnd=111 PartOfSpeech=NN Lemma=que NamedEntityTag=O]
+[Text=enfrenta CharacterOffsetBegin=112 CharacterOffsetEnd=120 PartOfSpeech=NNP Lemma=enfrenta NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=121 CharacterOffsetEnd=123 PartOfSpeech=NNP Lemma=la NamedEntityTag=O]
+[Text=población CharacterOffsetBegin=124 CharacterOffsetEnd=133 PartOfSpeech=NNP Lemma=población NamedEntityTag=O]
+[Text=es CharacterOffsetBegin=134 CharacterOffsetEnd=136 PartOfSpeech=VBZ Lemma=e NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=137 CharacterOffsetEnd=139 PartOfSpeech=NNP Lemma=el NamedEntityTag=O]
+[Text=robo CharacterOffsetBegin=140 CharacterOffsetEnd=144 PartOfSpeech=FW Lemma=robo NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=145 CharacterOffsetEnd=147 PartOfSpeech=FW Lemma=en NamedEntityTag=O]
+[Text=todas CharacterOffsetBegin=148 CharacterOffsetEnd=153 PartOfSpeech=NNS Lemma=toda NamedEntityTag=O]
+[Text=sus CharacterOffsetBegin=154 CharacterOffsetEnd=157 PartOfSpeech=JJ Lemma=sus NamedEntityTag=O]
+[Text=modalidades CharacterOffsetBegin=158 CharacterOffsetEnd=169 PartOfSpeech=NNS Lemma=modalidade NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=169 CharacterOffsetEnd=170 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=especialmente CharacterOffsetBegin=171 CharacterOffsetEnd=184 PartOfSpeech=VBP Lemma=especialmente NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=185 CharacterOffsetEnd=186 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=transeúnte CharacterOffsetBegin=187 CharacterOffsetEnd=197 PartOfSpeech=NN Lemma=transeúnte NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=197 CharacterOffsetEnd=198 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=199 CharacterOffsetEnd=201 PartOfSpeech=IN Lemma=de NamedEntityTag=O]
+[Text=transporte CharacterOffsetBegin=202 CharacterOffsetEnd=212 PartOfSpeech=FW Lemma=transporte NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=213 CharacterOffsetEnd=214 PartOfSpeech=FW Lemma=y NamedEntityTag=O]
+[Text=vehículos CharacterOffsetBegin=215 CharacterOffsetEnd=224 PartOfSpeech=FW Lemma=vehículos NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=224 CharacterOffsetEnd=225 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=aunque CharacterOffsetBegin=226 CharacterOffsetEnd=232 PartOfSpeech=FW Lemma=aunque NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=233 CharacterOffsetEnd=234 PartOfSpeech=FW Lemma=a NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=235 CharacterOffsetEnd=237 PartOfSpeech=FW Lemma=la NamedEntityTag=O]
+[Text=fecha CharacterOffsetBegin=238 CharacterOffsetEnd=243 PartOfSpeech=FW Lemma=fecha NamedEntityTag=O]
+[Text=continúan CharacterOffsetBegin=244 CharacterOffsetEnd=253 PartOfSpeech=FW Lemma=continúan NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=254 CharacterOffsetEnd=257 PartOfSpeech=FW Lemma=con NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=258 CharacterOffsetEnd=260 PartOfSpeech=FW Lemma=la NamedEntityTag=O]
+[Text=investigación CharacterOffsetBegin=261 CharacterOffsetEnd=274 PartOfSpeech=FW Lemma=investigación NamedEntityTag=O]
+[Text=para CharacterOffsetBegin=275 CharacterOffsetEnd=279 PartOfSpeech=FW Lemma=para NamedEntityTag=O]
+[Text=conocer CharacterOffsetBegin=280 CharacterOffsetEnd=287 PartOfSpeech=FW Lemma=conocer NamedEntityTag=O]
+[Text=si CharacterOffsetBegin=288 CharacterOffsetEnd=290 PartOfSpeech=FW Lemma=si NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=291 CharacterOffsetEnd=293 PartOfSpeech=NNP Lemma=el NamedEntityTag=O]
+[Text=robo CharacterOffsetBegin=294 CharacterOffsetEnd=298 PartOfSpeech=FW Lemma=robo NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=299 CharacterOffsetEnd=301 PartOfSpeech=FW Lemma=de NamedEntityTag=O]
+[Text=autos CharacterOffsetBegin=302 CharacterOffsetEnd=307 PartOfSpeech=NNS Lemma=auto NamedEntityTag=O]
+[Text=está CharacterOffsetBegin=308 CharacterOffsetEnd=312 PartOfSpeech=NN Lemma=está NamedEntityTag=O]
+[Text=vinculado CharacterOffsetBegin=313 CharacterOffsetEnd=322 PartOfSpeech=FW Lemma=vinculado NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=323 CharacterOffsetEnd=326 PartOfSpeech=FW Lemma=con NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=327 CharacterOffsetEnd=329 PartOfSpeech=FW Lemma=la NamedEntityTag=O]
+[Text=operación CharacterOffsetBegin=330 CharacterOffsetEnd=339 PartOfSpeech=FW Lemma=operación NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=340 CharacterOffsetEnd=342 PartOfSpeech=FW Lemma=de NamedEntityTag=O]
+[Text=células CharacterOffsetBegin=343 CharacterOffsetEnd=350 PartOfSpeech=FW Lemma=células NamedEntityTag=O]
+[Text=delictivas CharacterOffsetBegin=351 CharacterOffsetEnd=361 PartOfSpeech=FW Lemma=delictivas NamedEntityTag=O]
+[Text=dedicadas CharacterOffsetBegin=362 CharacterOffsetEnd=371 PartOfSpeech=FW Lemma=dedicadas NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=372 CharacterOffsetEnd=373 PartOfSpeech=FW Lemma=a NamedEntityTag=O]
+[Text=la CharacterOffsetBegin=374 CharacterOffsetEnd=376 PartOfSpeech=FW Lemma=la NamedEntityTag=O]
+[Text=extorsión CharacterOffsetBegin=377 CharacterOffsetEnd=386 PartOfSpeech=FW Lemma=extorsión NamedEntityTag=O]
+[Text=y CharacterOffsetBegin=387 CharacterOffsetEnd=388 PartOfSpeech=NN Lemma=y NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=389 CharacterOffsetEnd=391 PartOfSpeech=NNP Lemma=el NamedEntityTag=O]
+[Text=secuestro CharacterOffsetBegin=392 CharacterOffsetEnd=401 PartOfSpeech=NNP Lemma=secuestro NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=401 CharacterOffsetEnd=402 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, es-22)
+compound(Guerrero-3, Maribel-1)
+compound(Guerrero-3, Cervantes-2)
+nsubj(es-22, Guerrero-3)
+punct(Guerrero-3, ,-4)
+compound(México-11, secretaria-5)
+compound(México-11, de-6)
+compound(México-11, Seguridad-7)
+compound(México-11, del-8)
+compound(México-11, Estado-9)
+compound(México-11, de-10)
+appos(Guerrero-3, México-11)
+punct(Guerrero-3, ,-12)
+compound(que-14, admitió-13)
+compound(que-18, que-14)
+compound(que-18, el-15)
+amod(que-18, principal-16)
+compound(que-18, problema-17)
+compound(población-21, que-18)
+compound(población-21, enfrenta-19)
+compound(población-21, la-20)
+appos(Guerrero-3, población-21)
+compound(modalidades-28, el-23)
+compound(modalidades-28, robo-24)
+compound(modalidades-28, en-25)
+compound(modalidades-28, todas-26)
+amod(modalidades-28, sus-27)
+obj(es-22, modalidades-28)
+punct(es-22, ,-29)
+conj(es-22, especialmente-30)
+det(transeúnte-32, a-31)
+obj(especialmente-30, transeúnte-32)
+punct(es-22, ,-33)
+conj(es-22, de-34)
+compound(vehículos-37, transporte-35)
+compound(vehículos-37, y-36)
+dep(de-34, vehículos-37)
+punct(vehículos-37, ,-38)
+compound(y-66, aunque-39)
+compound(y-66, a-40)
+compound(y-66, la-41)
+compound(y-66, fecha-42)
+dep(autos-53, continúan-43)
+dep(autos-53, con-44)
+dep(autos-53, la-45)
+compound(autos-53, investigación-46)
+compound(autos-53, para-47)
+compound(autos-53, conocer-48)
+compound(autos-53, si-49)
+compound(autos-53, el-50)
+compound(autos-53, robo-51)
+compound(autos-53, de-52)
+compound(y-66, autos-53)
+compound(y-66, está-54)
+compound(y-66, vinculado-55)
+compound(y-66, con-56)
+compound(y-66, la-57)
+compound(y-66, operación-58)
+compound(y-66, de-59)
+compound(y-66, células-60)
+compound(y-66, delictivas-61)
+compound(y-66, dedicadas-62)
+compound(y-66, a-63)
+compound(y-66, la-64)
+compound(y-66, extorsión-65)
+compound(secuestro-68, y-66)
+compound(secuestro-68, el-67)
+appos(vehículos-37, secuestro-68)
+punct(es-22, .-69)
+
+Extracted the following NER entity mentions:
+Maribel Cervantes Guerrero      PERSON  PERSON:0.9933221516825704
+México  COUNTRY -
+principal       TITLE   -
+
+Extracted the following KBP triples:
+0.6245587530410391      Maribel Cervantes Guerrero      per:countries_of_residence      México
