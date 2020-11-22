@@ -1,0 +1,2 @@
+#sample5 with Spanish properties
+java -cp "*" -Xmx500m edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-spanish.properties -annotators tokenize,ssplit,pos -file input2-es-mx.txt -outputFormat conll
