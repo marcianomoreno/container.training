@@ -20,7 +20,6 @@ WORKDIR /CoreNLP
 RUN wget http://nlp.stanford.edu/software/stanford-corenlp-4.2.0-models-spanish.jar
 COPY classpath.sh .
 RUN chmod +x classpath.sh
-RUN ./classpath.sh > classpath.txt
 ENV PORT 9000
 EXPOSE 9000
 ENTRYPOINT tail -f /dev/null
