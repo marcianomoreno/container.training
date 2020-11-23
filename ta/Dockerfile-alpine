@@ -19,7 +19,6 @@ RUN wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip; \
 WORKDIR /CoreNLP
 RUN wget http://nlp.stanford.edu/software/stanford-corenlp-4.2.0-models-spanish.jar
 COPY classpath.sh .
-RUN ./classpath.sh > classpath.txt
 RUN chmod +x classpath.sh
 ENV PORT 9000
 EXPOSE 9000
