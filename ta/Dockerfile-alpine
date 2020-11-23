@@ -1,20 +1,25 @@
 FROM alpine
-RUN apt-get update -y && \
-    apt-get install -y apt-utils \
-        default-jre \
-        default-jdk \
-        ant \
-        unzip \
-        wget  \
-        git
-RUN wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip
-RUN mkdir /CoreNLP; \
+RUN apk update && \
+    apk add git && \
+    apk add bash
+RUN wget https://download.java.net/java/early_access/alpine/23/binaries/openjdk-16-ea+23_linux-x64-musl_bin.tar.gz; \
+    tar -x -f openjdk-16-ea+23_linux-x64-musl_bin.tar.gz
+ENV JAVA_HOME=/jdk-16
+ENV PATH=$PATH:$JAVA_HOME/bin
+RUN wget https://downloads.apache.org//ant/binaries/apache-ant-1.9.15-bin.tar.gz; \
+    tar -x -f apache-ant-1.9.15-bin.tar.gz -z
+ENV ANT_HOME=/apache-ant-1.9.15
+ENV PATH=$PATH:$ANT_HOME/bin
+RUN wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip; \
+    mkdir /CoreNLP; \
     unzip stanford-corenlp-latest.zip -d /CoreNLP; \
     cd /CoreNLP/stanford-corenlp-*; \
     mv * /CoreNLP; \
-    cd /CoreNLP; \
     export CLASSPATH=""; for file in `find . -name "*.jar"`; do export CLASSPATH="$CLASSPATH:`realpath $file`"; done
+WORKDIR /CoreNLP
+RUN wget http://nlp.stanford.edu/software/stanford-corenlp-4.2.0-models-spanish.jar
+COPY classpath.sh .
+RUN chmod +x classpath.sh
 ENV PORT 9000
 EXPOSE 9000
-WORKDIR /CoreNLP
 ENTRYPOINT tail -f /dev/null
