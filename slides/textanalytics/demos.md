@@ -30,6 +30,9 @@
 - Hacer commit y push de Dockerfile-alpine a repositorio remoto
 - Construir imagen de Docker con extensión de Docker de VSCode
 - 
+## Ejecutar una imagen de Docker
+
+---
 - 
 ## Publicar una imagen a Docker Hub
 - Repositorio público: marcianomoreno/analytics.training
