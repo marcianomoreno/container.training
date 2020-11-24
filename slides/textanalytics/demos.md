@@ -4,7 +4,7 @@
 ---
 ## Stanford CoreNLP
 .concept[
-    Es una herramienta integral para procesamiento de lenguaje natural en Java. CoreNLP habilita a usua usuarios a derivar anotaciones linguísticas para texto, incluyendo fronteras de tokens y enunciados, partes del discurso, entidades nombradas, valores numéricos y de tiempo, análisis gramatical de dependencias y de integridad, coreferencias, sentimiento y atribuciones a comentarios.
+    Es una herramienta integral para procesamiento de lenguaje natural en Java. CoreNLP habilita a usuarios a derivar anotaciones linguísticas para texto, incluyendo fronteras de tokens y enunciados, partes del discurso, entidades nombradas, valores numéricos y de tiempo, análisis gramatical de dependencias y de integridad, coreferencias, sentimiento y atribuciones a comentarios.
 ]
 - Lenguajes soportados por Stanford CoreNLP:
     - Arábico.
@@ -16,13 +16,43 @@
 ---
 ## Arquitectura Stanford CoreNLP
 .concept[
-    La herramienta principal de CoreNLP es el pipeline. El pipeline toma texto crudo, ejecuta una serie de anotadores de NLP en el texto y produce una serie de anotaciones.
+    La abstracción principal de CoreNLP es el pipeline. El pipeline toma texto crudo, ejecuta una serie de anotadores de NLP en el texto y produce una serie de anotaciones.
 ]
 ---
 ## Objeto principal: CoreDocument
 .concept[
     Los pipelines de CoreNLP producen objetos denominados CoreObject que contienen toda la información de anotaciones, la cual es accesible por medio de un API sencillo y es serializable a Google Protocol Buffer.
 ]
+---
+## Soporte a español en Stanford CoreNLP
+- Para usar español en el pipeline se requiere añadir el archivo de propiedades StanfordCoreNLP-spanish.properties que forma parte del jar de modelos en español.
+
+- Los modelos en español de Stanford CoreNLP fueron generados, después de intensas modificaciones, a partir de:
+    - AnCora Spanish 3.0 corpus: Este corpus consta de 17,000 enunciados, obtenidos de noticias de España y el corpus 3LB.
+    - DEFT Spanish Treebank V2 (LDC2015E66). Incluye la fuente de información completa Spanish Newswire Treebkanc y el archivo del foro Latin American Spanish Dicussion Forum Treebank.
+        - Estos datos fueron añadidos para entrenar los nuevos modelos en español liberados en CoreNLP 3.7.0.
+---
+## Soporte a español en Stanford CoreNLP
+
+- La generación de tokens en español es similar a la de inglés con algunas excepciones, destacando:
+    - Los pronombres clíticos están separados de sus verbos.Los verbos en español pueden incluir pronombres clíticos en algunos casos (cuando el verbo es un gerundio, imperativo no negativo o forma infinida). El tokenizador separa los pronombres anexos al final de estos tipos de verbos en tokens separados.
+    P.e. negarse se tokeniza a negar se, dos tokens separados.
+    - Las contracciones se expanden a múltiples palabras. Las contracciones en español incluyen p.e. al, del conmigo, consigo. El tokenizer expande estas contracciones en a su forma de diccionario: a el, de el, con mí, con sí, etc. Estas expansiones son incorrectas gramáticamente pero son útiles para todas las tareas que siguen de la tokenización (tagging y parsing, por ejemplo).
+    - Los paréntesis se despliegan =LRB= y =RRB=.
+    - Todas las formas con comilla sencilla se normalizan a '; todas las formas de comillas dobles se normalizan a ".
+    - Los guiones largos (em dash y en dash) se normalizan al guión -.
+
+---
+## Soporte a español en Stanford CoreNLP
+- Se espera que las entradas estén codificadas en UTF-8.
+
+- El analizador de partes del discurso (POS) emplea una versión simplificada del conjunto de etiquetas de AnCora 3.0 y DEFT Spanish Treebank. Stanford CoreNLP cuenta con 85 etiquetas que permiten tener un tamaño manejable con una precisión útil.
+    - Las etiquetas están diseñadas para ser compatibles con el estándar EAGLES https://web.archive.org/web/20160325024315/http://nlp.lsi.upc.edu/freeling/doc/tagsets/tagset-es.html
+    - Ejemplos de etiquetas: Adjetivos, conjunciones, determinadores, puntuación, sustantivos, pronombres, verbos, fechas, numerales, etc.
+
+---
+## Soporte a español en Stanford CoreNLP 
+- De momento no se cuenta con un analizador de dependencias en español.
 ---
 ## Anotaciones producidas por CoreNLP
 - Partes del discurso (Parts of Speech, POS).
@@ -57,7 +87,79 @@ java -Xm5g edu.stanford.nlp.pipeline.StanfordCoreNLP -file input.txt
 .concept[
     Un etiquetador de partes del discurso es una pieza de software que lee texto en una lenguaje y asigna partes del discurso a cada palabra (o a un token), tal como sustantivo, verbo, adjetivo, etc.
 ]
-- 
+- El etiquetador puede ser reentrenado en cualquier lenguaje con la provisión de un texto de entrenamiento con anotaciones de POS para el lenguaje.
+- Las abreviaturas del modelo en español usa el estándar UD (v2) tagset  https://universaldependencies.org/u/pos/
+- El archivo README-Models.txt en el directorio models provee de más información respecto al conjunto de etiquetas para cada lenguaje.
+- El código del etiquetador tiene una licencia dual: GNU General Public Licence (v2 o posterior) y licenciamiento para uso comercial en software propietario por solicitud.
+---
+## Entidades nombradas
+.concept[
+    Stanford NER es una implementación en Java de un reconocedor de entidades nombradas (Named Entity Recognizer, NER). Un NER etiqueta secuencias de palabras en un texto las cuales son nombres de entidades tales como el nombre de una persona, empresa, gen o proteína. 
+]
+- Cuenta con extractores de características para NER.
+- Cuenta con opciones para definir extractores de características personalizados.
+- Los NERs en inglés incluyen 3 clases: PERSON, ORGANIZATION, LOCATION.
+- Cuenta con otros modelos para distintos lenguajes y circunstancias.
+
+---
+## Analizador de dependencias (Stanford parser)
+.concept[
+    Un analizador de dependencias es un programa que analiza la estructura de los enunciados, por ejemplo qué grupos de palabras trabajan juntos (como parte de una frase), qué palabras son el sujeto y qué palabras el objeto de un verbo].
+- Los analizadores de dependencias usan conocimiento del lenguaje adquirido de enunciados examinados a mano para tratar de producir el análisis más probable de nuevos enunciados.
+- Los analizadores estadísticos tienen una tasa de error, en general trabajan bien.
+- Su desarrollo fue uno de los grandes avances en procesamiento de lenguaje natural en la década de 1990.
+---
+## Red neuraonal para análisis de dependencias (NN dependency parser)
+.concept[
+    Un analizador de dependencias se concentra en la estructura gramatical de un enunciado, estableciendo relaciones entre palabras "protagónicas" y palabras que modifican a dichos "protagonistas". Los analizadores identifican la naturaleza de la modificación entre el protagonista y el modificador.
+] 
+- Stanford ha desarrollado un analizador extremadamente eficiente que produce análisis de dependencias con tipos de enunciados de lenguaje natural. 
+- El analizador está implementado con una red neuronal que acepta incrustaciones de palabras (word embedding) como entrada.
+- Este analizador soporta inglés y chino. En un futuro se soportarán otros lenguajes.
+---
+
+## Resolución de coreferencias
+.concept[
+    Un sistema de resolución de coreferencias consta de modelos determinísticos de coreferencias que integran información léxica, sintáctica, semántica y de discurso.
+]
+- Los modelos usan información global del documento al compartir atributos de menciones, tales como género y cantidad, en las menciones del mismo cluster.
+---
+## Análisis de sentimiento
+.concept[
+    El modelo de análisis de sentimiento de Sanford emplea técnicas de aprendizaje profundo (deep learning) que construye representaciones de enunciados completos de acuerdo con su estructura (en vez de analizar las palabras por separado, ignorando su orden).
+]
+- El código original fue escrito en Matlab.
+- Se reescribió el algoritmo en Java para permitir mayor facilidad y escalabilidad.
+- El modelo actual está integrado en Stanford CoreNLP (a partir de la versión 3.3.0)
+```java
+java -cp "*" -mx5g edu.stanford.nlp.sentiment.SentimentPipeline -file entrada.txt
+java -cp "*" -mx5g edu.stanford.nlp.sentiment.SentimentPipeline -stdin
+```
+---
+## Análisis de sentimiento y CoreNLP
+Se incluye una herramienta de evaluación con la distribución
+```java
+java edu.stanford.nlp.sentiment.Evaluate edu/stanford/nlp/models/sentiment/sentiment.ser.gz test.txt
+```
+Los modelos pueden ser reentrenados por medio del siguiente comando empleando un dataset en formato PTB.
+```java
+
+
+java -mx8g edu.stanford.nlp.sentiment.SentimentTraining -numHid 25 -trainPath train.txt -devPath dev.txt -train -model model.ser.gz
+```
+
+- Formato PTB: Proviene del dataset Penn Treebank (PTB), el cual es empleado ampliamente en machine learning para investigaciones de procesamiento de lenguaje natural.
+---
+
+## Extracción de información abierta (open IE)
+.concept[
+    Extracción de información abierta se refiere a la extracción de tuplas de relación, típicamente relaciones binarias, a partir de texto crudo, tal como (Bill Gates; fundó; Microsoft). La principal diferencia con otras técnicas de extracción es que el esquema de estas relaciones no necesita especificarse por anticipado.
+]
+- Típicamente el nombre de la relación es el texto que enlaza los dos argumentos.
+Por ejemplo: Pedro Infante nació en México crearía la terna (Pedro Infante; nació en; México), correspondiendo a la relación de dominio abierto 
+```
+nacio-en(Pedro-Infante, México)
+```
 ---
 ## GitHub
 - Cuenta de GitHub: marcianomoreno
