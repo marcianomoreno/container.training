@@ -1,0 +1,2 @@
+# El intérpŕete de comandos debe cargar el código, librerías y jars requeridos por CoreNLP los cuales se encuentran en la descarga de CoreNLP. La forma más sencilla de hacerlos disponibles es por medio del parámetro -cp "/CORENLPPATH/*" donde /CORENLPPATH representa la ruta donde se encuentra la instalación de CoreNLP
+java -cp "/CoreNLP/*" edu.stanford.nlp.pipeline.StanfordCoreNLP -file /stanford-core-nlp/data/input-es-mx.txt

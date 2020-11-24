@@ -1,0 +1,8 @@
+# Salida en formato JSON
+outputFormat = json
+
+# Lista de anotadores a ejecutar
+annotators = tokenize,ssplit,pos
+
+# Personalizar el modelo POS
+# pos.model = edu/stanford/nlp/models/pos-tagger/english-bidirectional-distsim.tagger
