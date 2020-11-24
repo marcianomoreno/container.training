@@ -121,4 +121,26 @@ https://ubuntu.com/tutorials/try-ubuntu-before-you-install#5-enjoy-ubuntu
 https://rufus.ie/
 https://github.com/pbatard/rufus/issues/134
 
+## Hello Docker!
+docker run hello-world
+---
 
+## Construir imagen corenlp
+docker image build -f Dockerfile-alpine .
+---
+
+## Ejecutar contenedor con corenlp
+
+docker container run -d -p 9000:9000 --mount type=bind,src=/home/marcianomoreno/src/container.training/ta/stanford-core-nlp,destination=/stanford-core-nlp --name corenlp 392749505716
+---
+## Conectarse a contenedor corenlo
+docker container exec -it corenlp /bin/bash
+
+## Configurar Git
+git config --global user.email "marciano_moreno@outlook.com"
+git config --global user.name "Marciano Moreno"
+
+## Visual Studio Code
+- Descargar repositorio container.training
+- Extensiones: Docker
+- 
