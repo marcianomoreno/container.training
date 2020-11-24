@@ -2,6 +2,63 @@
 - Entornos: Ambiente de desarrollo local, ambiente de desarrollo prueba Ubuntu, GitHub, DockerHub, Azure
 - Stanford Core NLP
 ---
+## Stanford CoreNLP
+.concept[
+    Es una herramienta integral para procesamiento de lenguaje natural en Java. CoreNLP habilita a usua usuarios a derivar anotaciones linguísticas para texto, incluyendo fronteras de tokens y enunciados, partes del discurso, entidades nombradas, valores numéricos y de tiempo, análisis gramatical de dependencias y de integridad, coreferencias, sentimiento y atribuciones a comentarios.
+]
+- Lenguajes soportados por Stanford CoreNLP:
+    - Arábico.
+    - Chino.
+    - Inglés.
+    - Francés.
+    - Alemán.
+    - Español.
+---
+## Arquitectura Stanford CoreNLP
+.concept[
+    La herramienta principal de CoreNLP es el pipeline. El pipeline toma texto crudo, ejecuta una serie de anotadores de NLP en el texto y produce una serie de anotaciones.
+]
+---
+## Objeto principal: CoreDocument
+.concept[
+    Los pipelines de CoreNLP producen objetos denominados CoreObject que contienen toda la información de anotaciones, la cual es accesible por medio de un API sencillo y es serializable a Google Protocol Buffer.
+]
+---
+## Anotaciones producidas por CoreNLP
+- Partes del discurso (Parts of Speech, POS).
+- Entidades nombradas.
+- Análisis gramatical de dependencias.
+- Coreferencias.
+---
+## Inicio rápido
+- Descarga de CoreNLP http://nlp.stanford.edu/software/stanford-corenlp-latest.zip 
+- Descarga de jars correspondientes a los modelos con los que se requiera trabajar, los cuales deben estar en el directorio de la distribución.
+    - Español: http://nlp.stanford.edu/software/stanford-corenlp-4.2.0-models-spanish.jar
+- Incluir el directorio de la disribución en CLASSPATH.
+- Ejecutar un pipeline
+```java
+java -Xm5g edu.stanford.nlp.pipeline.StanfordCoreNLP -file input.txt
+```
+---
+## Lenguajes de programación y sistemas operativos
+.concept[
+    Stanford CoreNLP está escrito en Java, las versiones más recientes requieren de Java 1.8 o superior. Se requiere tener Java instalada para correr CoreNLP Es posible interactuar con CoreNLP por medio de la línea de comando o su servicio Web. Un gran número de usuarios trabajan con CoreNLP mientras escriben su propio código en JavaScript, Python o algún otro lenguaje.
+]
+---
+## Licencia de Stanford CoreNLP
+.concept[
+    Stanford CoreNLP está licenciado bajo GNU General Public License v3 o posterior. 
+]
+- Permite el uso libre.
+- No admite el uso en software propietario que se distribuya a otros.
+- Stanford ofrece una licencia comercial para quienes deseen integrar CoreNLP en software propietario.
+---
+## Etiquetador de partes del discurso (POS Tagger)
+.concept[
+    Un etiquetador de partes del discurso es una pieza de software que lee texto en una lenguaje y asigna partes del discurso a cada palabra (o a un token), tal como sustantivo, verbo, adjetivo, etc.
+]
+- 
+---
 ## GitHub
 - Cuenta de GitHub: marcianomoreno
 - URL: https://github.com/marcianomoreno/container.training
