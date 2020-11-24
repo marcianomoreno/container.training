@@ -1,1 +1,1 @@
-java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -file input-es-mx.txt
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -file ../data/input-es-mx.txt

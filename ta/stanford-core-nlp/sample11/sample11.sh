@@ -1,2 +1,2 @@
 #sample4 with Spanish properties
-java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-spanish.properties -annotators tokenize,ssplit -file input-es-mx.txt -outputFormat conll -output.columns word
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-spanish.properties -annotators tokenize,ssplit -file ../data/input-es-mx.txt -outputFormat conll -output.columns word

@@ -1,1 +1,1 @@
-java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-spanish.properties -file input-es-mx.txt -outputFormat text
+java -mx3g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-spanish.properties -file ../data/input-es-mx.txt -outputFormat text

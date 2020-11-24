@@ -1,1 +1,1 @@
-java -Xmx5g edu.stanford.nlp.pipeline.StanfordCoreNLP -file input-es-mx.txt
+java -Xmx5g edu.stanford.nlp.pipeline.StanfordCoreNLP -file ../data/input-es-mx.txt

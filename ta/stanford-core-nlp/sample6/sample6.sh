@@ -1,1 +1,1 @@
-./corenlp.sh -annotators tokenize,ssplit,pos -file input2-es-mx.txt -outputFormat conll
+./corenlp.sh -annotators tokenize,ssplit,pos -file ../data/input2-es-mx.txt -outputFormat conll
