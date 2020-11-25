@@ -1,0 +1,108 @@
+Document: ID=input3-es-mx.txt (1 sentences, 48 tokens)
+
+Sentence #1 (48 tokens):
+De acuerdo con los informes policíacos, el cuerpo corresponde a un hombre de aproximadamente 30 años de edad mismo que presentaba algunas lesiones en las extremidades de su cuerpo; sin embargo serán las autoridades correspondientes las encargadas de determinar las causas reales de su muerte.
+
+Tokens:
+[Text=De CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=ADP Lemma=de NamedEntityTag=O]
+[Text=acuerdo CharacterOffsetBegin=3 CharacterOffsetEnd=10 PartOfSpeech=NOUN Lemma=acuerdo NamedEntityTag=O]
+[Text=con CharacterOffsetBegin=11 CharacterOffsetEnd=14 PartOfSpeech=ADP Lemma=con NamedEntityTag=O]
+[Text=los CharacterOffsetBegin=15 CharacterOffsetEnd=18 PartOfSpeech=DET Lemma=los NamedEntityTag=O]
+[Text=informes CharacterOffsetBegin=19 CharacterOffsetEnd=27 PartOfSpeech=NOUN Lemma=informes NamedEntityTag=O]
+[Text=policíacos CharacterOffsetBegin=28 CharacterOffsetEnd=38 PartOfSpeech=ADJ Lemma=policíacos NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=38 CharacterOffsetEnd=39 PartOfSpeech=PUNCT Lemma=, NamedEntityTag=O]
+[Text=el CharacterOffsetBegin=40 CharacterOffsetEnd=42 PartOfSpeech=DET Lemma=el NamedEntityTag=O]
+[Text=cuerpo CharacterOffsetBegin=43 CharacterOffsetEnd=49 PartOfSpeech=NOUN Lemma=cuerpo NamedEntityTag=O]
+[Text=corresponde CharacterOffsetBegin=50 CharacterOffsetEnd=61 PartOfSpeech=VERB Lemma=corresponde NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=62 CharacterOffsetEnd=63 PartOfSpeech=ADP Lemma=a NamedEntityTag=O]
+[Text=un CharacterOffsetBegin=64 CharacterOffsetEnd=66 PartOfSpeech=DET Lemma=un NamedEntityTag=O]
+[Text=hombre CharacterOffsetBegin=67 CharacterOffsetEnd=73 PartOfSpeech=NOUN Lemma=hombre NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=74 CharacterOffsetEnd=76 PartOfSpeech=ADP Lemma=de NamedEntityTag=O]
+[Text=aproximadamente CharacterOffsetBegin=77 CharacterOffsetEnd=92 PartOfSpeech=ADV Lemma=aproximadamente NamedEntityTag=O]
+[Text=30 CharacterOffsetBegin=93 CharacterOffsetEnd=95 PartOfSpeech=NUM Lemma=30 NamedEntityTag=NUMBER NormalizedNamedEntityTag=30.0]
+[Text=años CharacterOffsetBegin=96 CharacterOffsetEnd=100 PartOfSpeech=NOUN Lemma=años NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=101 CharacterOffsetEnd=103 PartOfSpeech=ADP Lemma=de NamedEntityTag=O]
+[Text=edad CharacterOffsetBegin=104 CharacterOffsetEnd=108 PartOfSpeech=NOUN Lemma=edad NamedEntityTag=O]
+[Text=mismo CharacterOffsetBegin=109 CharacterOffsetEnd=114 PartOfSpeech=DET Lemma=mismo NamedEntityTag=O]
+[Text=que CharacterOffsetBegin=115 CharacterOffsetEnd=118 PartOfSpeech=PRON Lemma=que NamedEntityTag=O]
+[Text=presentaba CharacterOffsetBegin=119 CharacterOffsetEnd=129 PartOfSpeech=VERB Lemma=presentaba NamedEntityTag=O]
+[Text=algunas CharacterOffsetBegin=130 CharacterOffsetEnd=137 PartOfSpeech=DET Lemma=algunas NamedEntityTag=O]
+[Text=lesiones CharacterOffsetBegin=138 CharacterOffsetEnd=146 PartOfSpeech=NOUN Lemma=lesiones NamedEntityTag=O]
+[Text=en CharacterOffsetBegin=147 CharacterOffsetEnd=149 PartOfSpeech=ADP Lemma=en NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=150 CharacterOffsetEnd=153 PartOfSpeech=DET Lemma=las NamedEntityTag=O]
+[Text=extremidades CharacterOffsetBegin=154 CharacterOffsetEnd=166 PartOfSpeech=NOUN Lemma=extremidades NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=167 CharacterOffsetEnd=169 PartOfSpeech=ADP Lemma=de NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=170 CharacterOffsetEnd=172 PartOfSpeech=DET Lemma=su NamedEntityTag=O]
+[Text=cuerpo CharacterOffsetBegin=173 CharacterOffsetEnd=179 PartOfSpeech=NOUN Lemma=cuerpo NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=179 CharacterOffsetEnd=180 PartOfSpeech=PUNCT Lemma=; NamedEntityTag=O]
+[Text=sin CharacterOffsetBegin=181 CharacterOffsetEnd=184 PartOfSpeech=ADP Lemma=sin NamedEntityTag=O]
+[Text=embargo CharacterOffsetBegin=185 CharacterOffsetEnd=192 PartOfSpeech=NOUN Lemma=embargo NamedEntityTag=O]
+[Text=serán CharacterOffsetBegin=193 CharacterOffsetEnd=198 PartOfSpeech=AUX Lemma=serán NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=199 CharacterOffsetEnd=202 PartOfSpeech=DET Lemma=las NamedEntityTag=O]
+[Text=autoridades CharacterOffsetBegin=203 CharacterOffsetEnd=214 PartOfSpeech=NOUN Lemma=autoridades NamedEntityTag=O]
+[Text=correspondientes CharacterOffsetBegin=215 CharacterOffsetEnd=231 PartOfSpeech=ADJ Lemma=correspondientes NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=232 CharacterOffsetEnd=235 PartOfSpeech=DET Lemma=las NamedEntityTag=O]
+[Text=encargadas CharacterOffsetBegin=236 CharacterOffsetEnd=246 PartOfSpeech=ADJ Lemma=encargadas NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=247 CharacterOffsetEnd=249 PartOfSpeech=ADP Lemma=de NamedEntityTag=O]
+[Text=determinar CharacterOffsetBegin=250 CharacterOffsetEnd=260 PartOfSpeech=VERB Lemma=determinar NamedEntityTag=O]
+[Text=las CharacterOffsetBegin=261 CharacterOffsetEnd=264 PartOfSpeech=DET Lemma=las NamedEntityTag=O]
+[Text=causas CharacterOffsetBegin=265 CharacterOffsetEnd=271 PartOfSpeech=NOUN Lemma=causas NamedEntityTag=O]
+[Text=reales CharacterOffsetBegin=272 CharacterOffsetEnd=278 PartOfSpeech=ADJ Lemma=reales NamedEntityTag=O]
+[Text=de CharacterOffsetBegin=279 CharacterOffsetEnd=281 PartOfSpeech=ADP Lemma=de NamedEntityTag=O]
+[Text=su CharacterOffsetBegin=282 CharacterOffsetEnd=284 PartOfSpeech=DET Lemma=su NamedEntityTag=O]
+[Text=muerte CharacterOffsetBegin=285 CharacterOffsetEnd=291 PartOfSpeech=NOUN Lemma=muerte NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=291 CharacterOffsetEnd=292 PartOfSpeech=PUNCT Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, corresponde-10)
+case(informes-5, De-1)
+fixed(De-1, acuerdo-2)
+fixed(De-1, con-3)
+det(informes-5, los-4)
+obl(corresponde-10, informes-5)
+obl(corresponde-10, informes-5)
+amod(informes-5, policíacos-6)
+punct(informes-5, ,-7)
+det(cuerpo-9, el-8)
+nsubj(corresponde-10, cuerpo-9)
+case(hombre-13, a-11)
+det(hombre-13, un-12)
+obj(corresponde-10, hombre-13)
+case(años-17, de-14)
+advmod(años-17, aproximadamente-15)
+nummod(años-17, 30-16)
+nmod(hombre-13, años-17)
+case(edad-19, de-18)
+nmod(años-17, edad-19)
+amod(edad-19, mismo-20)
+nsubj(presentaba-22, que-21)
+acl(hombre-13, presentaba-22)
+det(lesiones-24, algunas-23)
+obj(presentaba-22, lesiones-24)
+case(extremidades-27, en-25)
+det(extremidades-27, las-26)
+obl(presentaba-22, extremidades-27)
+case(cuerpo-30, de-28)
+det(cuerpo-30, su-29)
+nmod(extremidades-27, cuerpo-30)
+punct(presentaba-22, ;-31)
+advmod(autoridades-36, sin-32)
+fixed(sin-32, embargo-33)
+cop(autoridades-36, serán-34)
+det(autoridades-36, las-35)
+advcl(presentaba-22, autoridades-36)
+amod(autoridades-36, correspondientes-37)
+det(encargadas-39, las-38)
+obj(correspondientes-37, encargadas-39)
+mark(determinar-41, de-40)
+acl(encargadas-39, determinar-41)
+det(causas-43, las-42)
+obj(determinar-41, causas-43)
+amod(causas-43, reales-44)
+case(muerte-47, de-45)
+det(muerte-47, su-46)
+nmod(causas-43, muerte-47)
+punct(corresponde-10, .-48)
+
+Extracted the following NER entity mentions:
+30	NUMBER	NUMBER:-1.0

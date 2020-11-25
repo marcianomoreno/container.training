@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <docId>input3-es-mx.txt</docId>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>De</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>acuerdo</word>
+            <lemma>acuerdo</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>con</word>
+            <lemma>con</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>los</word>
+            <lemma>los</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>informes</word>
+            <lemma>informes</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>policíacos</word>
+            <lemma>policíacos</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>el</word>
+            <lemma>el</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>cuerpo</word>
+            <lemma>cuerpo</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>corresponde</word>
+            <lemma>corresponde</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>VERB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>un</word>
+            <lemma>un</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>hombre</word>
+            <lemma>hombre</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>aproximadamente</word>
+            <lemma>aproximadamente</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>ADV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>30</word>
+            <lemma>30</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>NUM</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>30.0</NormalizedNER>
+          </token>
+          <token id="17">
+            <word>años</word>
+            <lemma>años</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>edad</word>
+            <lemma>edad</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>mismo</word>
+            <lemma>mismo</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>que</word>
+            <lemma>que</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>PRON</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>presentaba</word>
+            <lemma>presentaba</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>129</CharacterOffsetEnd>
+            <POS>VERB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>algunas</word>
+            <lemma>algunas</lemma>
+            <CharacterOffsetBegin>130</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>lesiones</word>
+            <lemma>lesiones</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>146</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>en</word>
+            <lemma>en</lemma>
+            <CharacterOffsetBegin>147</CharacterOffsetBegin>
+            <CharacterOffsetEnd>149</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>las</word>
+            <lemma>las</lemma>
+            <CharacterOffsetBegin>150</CharacterOffsetBegin>
+            <CharacterOffsetEnd>153</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>extremidades</word>
+            <lemma>extremidades</lemma>
+            <CharacterOffsetBegin>154</CharacterOffsetBegin>
+            <CharacterOffsetEnd>166</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>169</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>su</word>
+            <lemma>su</lemma>
+            <CharacterOffsetBegin>170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>172</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>cuerpo</word>
+            <lemma>cuerpo</lemma>
+            <CharacterOffsetBegin>173</CharacterOffsetBegin>
+            <CharacterOffsetEnd>179</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>;</word>
+            <lemma>;</lemma>
+            <CharacterOffsetBegin>179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>180</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>sin</word>
+            <lemma>sin</lemma>
+            <CharacterOffsetBegin>181</CharacterOffsetBegin>
+            <CharacterOffsetEnd>184</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>embargo</word>
+            <lemma>embargo</lemma>
+            <CharacterOffsetBegin>185</CharacterOffsetBegin>
+            <CharacterOffsetEnd>192</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>serán</word>
+            <lemma>serán</lemma>
+            <CharacterOffsetBegin>193</CharacterOffsetBegin>
+            <CharacterOffsetEnd>198</CharacterOffsetEnd>
+            <POS>AUX</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>las</word>
+            <lemma>las</lemma>
+            <CharacterOffsetBegin>199</CharacterOffsetBegin>
+            <CharacterOffsetEnd>202</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="36">
+            <word>autoridades</word>
+            <lemma>autoridades</lemma>
+            <CharacterOffsetBegin>203</CharacterOffsetBegin>
+            <CharacterOffsetEnd>214</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="37">
+            <word>correspondientes</word>
+            <lemma>correspondientes</lemma>
+            <CharacterOffsetBegin>215</CharacterOffsetBegin>
+            <CharacterOffsetEnd>231</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="38">
+            <word>las</word>
+            <lemma>las</lemma>
+            <CharacterOffsetBegin>232</CharacterOffsetBegin>
+            <CharacterOffsetEnd>235</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="39">
+            <word>encargadas</word>
+            <lemma>encargadas</lemma>
+            <CharacterOffsetBegin>236</CharacterOffsetBegin>
+            <CharacterOffsetEnd>246</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="40">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>247</CharacterOffsetBegin>
+            <CharacterOffsetEnd>249</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="41">
+            <word>determinar</word>
+            <lemma>determinar</lemma>
+            <CharacterOffsetBegin>250</CharacterOffsetBegin>
+            <CharacterOffsetEnd>260</CharacterOffsetEnd>
+            <POS>VERB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="42">
+            <word>las</word>
+            <lemma>las</lemma>
+            <CharacterOffsetBegin>261</CharacterOffsetBegin>
+            <CharacterOffsetEnd>264</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="43">
+            <word>causas</word>
+            <lemma>causas</lemma>
+            <CharacterOffsetBegin>265</CharacterOffsetBegin>
+            <CharacterOffsetEnd>271</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="44">
+            <word>reales</word>
+            <lemma>reales</lemma>
+            <CharacterOffsetBegin>272</CharacterOffsetBegin>
+            <CharacterOffsetEnd>278</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="45">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>279</CharacterOffsetBegin>
+            <CharacterOffsetEnd>281</CharacterOffsetEnd>
+            <POS>ADP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="46">
+            <word>su</word>
+            <lemma>su</lemma>
+            <CharacterOffsetBegin>282</CharacterOffsetBegin>
+            <CharacterOffsetEnd>284</CharacterOffsetEnd>
+            <POS>DET</POS>
+            <NER>O</NER>
+          </token>
+          <token id="47">
+            <word>muerte</word>
+            <lemma>muerte</lemma>
+            <CharacterOffsetBegin>285</CharacterOffsetBegin>
+            <CharacterOffsetEnd>291</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="48">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>291</CharacterOffsetBegin>
+            <CharacterOffsetEnd>292</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">corresponde</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">informes</governor>
+            <dependent idx="1">De</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="2">acuerdo</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="3">con</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">informes</governor>
+            <dependent idx="4">los</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">informes</governor>
+            <dependent idx="6">policíacos</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">informes</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">cuerpo</governor>
+            <dependent idx="8">el</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="9">cuerpo</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">hombre</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">hombre</governor>
+            <dependent idx="12">un</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="13">hombre</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">años</governor>
+            <dependent idx="14">de</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">años</governor>
+            <dependent idx="15">aproximadamente</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="17">años</governor>
+            <dependent idx="16">30</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="13">hombre</governor>
+            <dependent idx="17">años</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">edad</governor>
+            <dependent idx="18">de</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="17">años</governor>
+            <dependent idx="19">edad</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">edad</governor>
+            <dependent idx="20">mismo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="21">que</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="13">hombre</governor>
+            <dependent idx="22">presentaba</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">lesiones</governor>
+            <dependent idx="23">algunas</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="24">lesiones</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="25">en</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="26">las</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="27">extremidades</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="28">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="29">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="30">cuerpo</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="31">;</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="32">sin</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="32">sin</governor>
+            <dependent idx="33">embargo</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="34">serán</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="35">las</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="36">autoridades</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="37">correspondientes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="38">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="37">correspondientes</governor>
+            <dependent idx="39">encargadas</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="41">determinar</governor>
+            <dependent idx="40">de</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="41">determinar</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="43">causas</governor>
+            <dependent idx="42">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="41">determinar</governor>
+            <dependent idx="43">causas</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="43">causas</governor>
+            <dependent idx="44">reales</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="47">muerte</governor>
+            <dependent idx="45">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="47">muerte</governor>
+            <dependent idx="46">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="43">causas</governor>
+            <dependent idx="47">muerte</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="48">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">corresponde</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">informes</governor>
+            <dependent idx="1">De</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="2">acuerdo</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="3">con</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">informes</governor>
+            <dependent idx="4">los</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="obl" extra="true">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">informes</governor>
+            <dependent idx="6">policíacos</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">informes</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">cuerpo</governor>
+            <dependent idx="8">el</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="9">cuerpo</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">hombre</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">hombre</governor>
+            <dependent idx="12">un</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="13">hombre</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">años</governor>
+            <dependent idx="14">de</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">años</governor>
+            <dependent idx="15">aproximadamente</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="17">años</governor>
+            <dependent idx="16">30</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="13">hombre</governor>
+            <dependent idx="17">años</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">edad</governor>
+            <dependent idx="18">de</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="17">años</governor>
+            <dependent idx="19">edad</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">edad</governor>
+            <dependent idx="20">mismo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="21">que</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="13">hombre</governor>
+            <dependent idx="22">presentaba</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">lesiones</governor>
+            <dependent idx="23">algunas</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="24">lesiones</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="25">en</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="26">las</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="27">extremidades</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="28">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="29">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="30">cuerpo</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="31">;</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="32">sin</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="32">sin</governor>
+            <dependent idx="33">embargo</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="34">serán</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="35">las</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="36">autoridades</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="37">correspondientes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="38">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="37">correspondientes</governor>
+            <dependent idx="39">encargadas</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="41">determinar</governor>
+            <dependent idx="40">de</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="41">determinar</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="43">causas</governor>
+            <dependent idx="42">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="41">determinar</governor>
+            <dependent idx="43">causas</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="43">causas</governor>
+            <dependent idx="44">reales</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="47">muerte</governor>
+            <dependent idx="45">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="47">muerte</governor>
+            <dependent idx="46">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="43">causas</governor>
+            <dependent idx="47">muerte</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="48">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">corresponde</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">informes</governor>
+            <dependent idx="1">De</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="2">acuerdo</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="3">con</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">informes</governor>
+            <dependent idx="4">los</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="obl" extra="true">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">informes</governor>
+            <dependent idx="6">policíacos</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">informes</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">cuerpo</governor>
+            <dependent idx="8">el</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="9">cuerpo</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">hombre</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">hombre</governor>
+            <dependent idx="12">un</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="13">hombre</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">años</governor>
+            <dependent idx="14">de</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">años</governor>
+            <dependent idx="15">aproximadamente</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="17">años</governor>
+            <dependent idx="16">30</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="13">hombre</governor>
+            <dependent idx="17">años</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">edad</governor>
+            <dependent idx="18">de</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="17">años</governor>
+            <dependent idx="19">edad</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">edad</governor>
+            <dependent idx="20">mismo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="21">que</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="13">hombre</governor>
+            <dependent idx="22">presentaba</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">lesiones</governor>
+            <dependent idx="23">algunas</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="24">lesiones</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="25">en</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="26">las</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="27">extremidades</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="28">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="29">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="30">cuerpo</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="31">;</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="32">sin</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="32">sin</governor>
+            <dependent idx="33">embargo</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="34">serán</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="35">las</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="36">autoridades</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="37">correspondientes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="38">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="37">correspondientes</governor>
+            <dependent idx="39">encargadas</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="41">determinar</governor>
+            <dependent idx="40">de</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="41">determinar</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="43">causas</governor>
+            <dependent idx="42">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="41">determinar</governor>
+            <dependent idx="43">causas</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="43">causas</governor>
+            <dependent idx="44">reales</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="47">muerte</governor>
+            <dependent idx="45">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="47">muerte</governor>
+            <dependent idx="46">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="43">causas</governor>
+            <dependent idx="47">muerte</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="48">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">corresponde</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">informes</governor>
+            <dependent idx="1">De</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="2">acuerdo</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="3">con</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">informes</governor>
+            <dependent idx="4">los</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="obl" extra="true">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">informes</governor>
+            <dependent idx="6">policíacos</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">informes</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">cuerpo</governor>
+            <dependent idx="8">el</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="9">cuerpo</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">hombre</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">hombre</governor>
+            <dependent idx="12">un</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="13">hombre</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">años</governor>
+            <dependent idx="14">de</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">años</governor>
+            <dependent idx="15">aproximadamente</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="17">años</governor>
+            <dependent idx="16">30</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="13">hombre</governor>
+            <dependent idx="17">años</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">edad</governor>
+            <dependent idx="18">de</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="17">años</governor>
+            <dependent idx="19">edad</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">edad</governor>
+            <dependent idx="20">mismo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="21">que</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="13">hombre</governor>
+            <dependent idx="22">presentaba</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">lesiones</governor>
+            <dependent idx="23">algunas</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="24">lesiones</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="25">en</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="26">las</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="27">extremidades</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="28">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="29">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="30">cuerpo</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="31">;</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="32">sin</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="32">sin</governor>
+            <dependent idx="33">embargo</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="34">serán</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="35">las</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="36">autoridades</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="37">correspondientes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="38">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="37">correspondientes</governor>
+            <dependent idx="39">encargadas</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="41">determinar</governor>
+            <dependent idx="40">de</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="41">determinar</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="43">causas</governor>
+            <dependent idx="42">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="41">determinar</governor>
+            <dependent idx="43">causas</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="43">causas</governor>
+            <dependent idx="44">reales</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="47">muerte</governor>
+            <dependent idx="45">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="47">muerte</governor>
+            <dependent idx="46">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="43">causas</governor>
+            <dependent idx="47">muerte</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="48">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">corresponde</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">informes</governor>
+            <dependent idx="1">De</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="2">acuerdo</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="1">De</governor>
+            <dependent idx="3">con</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">informes</governor>
+            <dependent idx="4">los</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="obl" extra="true">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="5">informes</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">informes</governor>
+            <dependent idx="6">policíacos</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">informes</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">cuerpo</governor>
+            <dependent idx="8">el</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="9">cuerpo</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">hombre</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">hombre</governor>
+            <dependent idx="12">un</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="13">hombre</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">años</governor>
+            <dependent idx="14">de</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">años</governor>
+            <dependent idx="15">aproximadamente</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="17">años</governor>
+            <dependent idx="16">30</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="13">hombre</governor>
+            <dependent idx="17">años</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">edad</governor>
+            <dependent idx="18">de</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="17">años</governor>
+            <dependent idx="19">edad</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">edad</governor>
+            <dependent idx="20">mismo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="21">que</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="13">hombre</governor>
+            <dependent idx="22">presentaba</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">lesiones</governor>
+            <dependent idx="23">algunas</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="24">lesiones</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="25">en</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="26">las</dependent>
+          </dep>
+          <dep type="obl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="27">extremidades</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="28">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="30">cuerpo</governor>
+            <dependent idx="29">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="27">extremidades</governor>
+            <dependent idx="30">cuerpo</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="31">;</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="32">sin</dependent>
+          </dep>
+          <dep type="fixed">
+            <governor idx="32">sin</governor>
+            <dependent idx="33">embargo</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="34">serán</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="35">las</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="22">presentaba</governor>
+            <dependent idx="36">autoridades</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">autoridades</governor>
+            <dependent idx="37">correspondientes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="38">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="37">correspondientes</governor>
+            <dependent idx="39">encargadas</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="41">determinar</governor>
+            <dependent idx="40">de</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="39">encargadas</governor>
+            <dependent idx="41">determinar</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="43">causas</governor>
+            <dependent idx="42">las</dependent>
+          </dep>
+          <dep type="obj">
+            <governor idx="41">determinar</governor>
+            <dependent idx="43">causas</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="43">causas</governor>
+            <dependent idx="44">reales</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="47">muerte</governor>
+            <dependent idx="45">de</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="47">muerte</governor>
+            <dependent idx="46">su</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="43">causas</governor>
+            <dependent idx="47">muerte</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="10">corresponde</governor>
+            <dependent idx="48">.</dependent>
+          </dep>
+        </dependencies>
+        <kbp/>
+      </sentence>
+    </sentences>
+  </document>
+</root>

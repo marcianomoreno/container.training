@@ -1,0 +1,14 @@
+services:
+  corenlp:
+    image: 
+      marcianomoreno/analytics.training:corenlp-release
+    restart: "no"
+    entrypoint: tail -f /dev/null
+    deploy:
+      resources:
+        reservations:
+          cpus: "0.5"
+          memory: 8G
+        requests:
+          memoryInGB: 4
+          cpu: 2

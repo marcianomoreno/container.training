@@ -1,6 +1,12 @@
-# Demos
-- Entornos: Ambiente de desarrollo local, ambiente de desarrollo prueba Ubuntu, GitHub, DockerHub, Azure
+# Standford Core NLP, demos y ejercicios
 - Stanford Core NLP
+
+- Demos y ejercicios: 
+    - Ambiente de desarrollo local
+    - Ambiente de desarrollo prueba Ubuntu
+    - GitHub
+    - Docker y DockerHub
+    - Azure
 ---
 ## Stanford CoreNLP
 .concept[
@@ -56,8 +62,11 @@
 ---
 ## Anotaciones producidas por CoreNLP
 - Partes del discurso (Parts of Speech, POS).
+
 - Entidades nombradas.
+
 - Análisis gramatical de dependencias.
+
 - Coreferencias.
 ---
 ## Inicio rápido
@@ -104,7 +113,7 @@ java -Xm5g edu.stanford.nlp.pipeline.StanfordCoreNLP -file input.txt
 ---
 ## Analizador de dependencias (Stanford parser)
 .concept[
-    Un analizador de dependencias es un programa que analiza la estructura de los enunciados, por ejemplo qué grupos de palabras trabajan juntos (como parte de una frase), qué palabras son el sujeto y qué palabras el objeto de un verbo].
+    Un analizador de dependencias es un programa que analiza la estructura de los enunciados, por ejemplo qué grupos de palabras trabajan juntos (como parte de una frase), qué palabras son el sujeto y qué palabras el objeto de un verbo]
 - Los analizadores de dependencias usan conocimiento del lenguaje adquirido de enunciados examinados a mano para tratar de producir el análisis más probable de nuevos enunciados.
 - Los analizadores estadísticos tienen una tasa de error, en general trabajan bien.
 - Su desarrollo fue uno de los grandes avances en procesamiento de lenguaje natural en la década de 1990.

@@ -1,0 +1,1633 @@
+{
+  "docId": "input3-es-mx.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "basicDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 10,
+          "dependentGloss": "corresponde"
+        },
+        {
+          "dep": "case",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 1,
+          "dependentGloss": "De"
+        },
+        {
+          "dep": "fixed",
+          "governor": 1,
+          "governorGloss": "De",
+          "dependent": 2,
+          "dependentGloss": "acuerdo"
+        },
+        {
+          "dep": "fixed",
+          "governor": 1,
+          "governorGloss": "De",
+          "dependent": 3,
+          "dependentGloss": "con"
+        },
+        {
+          "dep": "det",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 4,
+          "dependentGloss": "los"
+        },
+        {
+          "dep": "obl",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 5,
+          "dependentGloss": "informes"
+        },
+        {
+          "dep": "amod",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 6,
+          "dependentGloss": "policíacos"
+        },
+        {
+          "dep": "punct",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 7,
+          "dependentGloss": ","
+        },
+        {
+          "dep": "det",
+          "governor": 9,
+          "governorGloss": "cuerpo",
+          "dependent": 8,
+          "dependentGloss": "el"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 9,
+          "dependentGloss": "cuerpo"
+        },
+        {
+          "dep": "case",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 11,
+          "dependentGloss": "a"
+        },
+        {
+          "dep": "det",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 12,
+          "dependentGloss": "un"
+        },
+        {
+          "dep": "obj",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 13,
+          "dependentGloss": "hombre"
+        },
+        {
+          "dep": "case",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 14,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "advmod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 15,
+          "dependentGloss": "aproximadamente"
+        },
+        {
+          "dep": "nummod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 16,
+          "dependentGloss": "30"
+        },
+        {
+          "dep": "nmod",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 17,
+          "dependentGloss": "años"
+        },
+        {
+          "dep": "case",
+          "governor": 19,
+          "governorGloss": "edad",
+          "dependent": 18,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "nmod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 19,
+          "dependentGloss": "edad"
+        },
+        {
+          "dep": "amod",
+          "governor": 19,
+          "governorGloss": "edad",
+          "dependent": 20,
+          "dependentGloss": "mismo"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 21,
+          "dependentGloss": "que"
+        },
+        {
+          "dep": "acl",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 22,
+          "dependentGloss": "presentaba"
+        },
+        {
+          "dep": "det",
+          "governor": 24,
+          "governorGloss": "lesiones",
+          "dependent": 23,
+          "dependentGloss": "algunas"
+        },
+        {
+          "dep": "obj",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 24,
+          "dependentGloss": "lesiones"
+        },
+        {
+          "dep": "case",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 25,
+          "dependentGloss": "en"
+        },
+        {
+          "dep": "det",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 26,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obl",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 27,
+          "dependentGloss": "extremidades"
+        },
+        {
+          "dep": "case",
+          "governor": 30,
+          "governorGloss": "cuerpo",
+          "dependent": 28,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "det",
+          "governor": 30,
+          "governorGloss": "cuerpo",
+          "dependent": 29,
+          "dependentGloss": "su"
+        },
+        {
+          "dep": "nmod",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 30,
+          "dependentGloss": "cuerpo"
+        },
+        {
+          "dep": "punct",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 31,
+          "dependentGloss": ";"
+        },
+        {
+          "dep": "advmod",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 32,
+          "dependentGloss": "sin"
+        },
+        {
+          "dep": "fixed",
+          "governor": 32,
+          "governorGloss": "sin",
+          "dependent": 33,
+          "dependentGloss": "embargo"
+        },
+        {
+          "dep": "cop",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 34,
+          "dependentGloss": "serán"
+        },
+        {
+          "dep": "det",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 35,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "advcl",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 36,
+          "dependentGloss": "autoridades"
+        },
+        {
+          "dep": "amod",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 37,
+          "dependentGloss": "correspondientes"
+        },
+        {
+          "dep": "det",
+          "governor": 39,
+          "governorGloss": "encargadas",
+          "dependent": 38,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obj",
+          "governor": 37,
+          "governorGloss": "correspondientes",
+          "dependent": 39,
+          "dependentGloss": "encargadas"
+        },
+        {
+          "dep": "mark",
+          "governor": 41,
+          "governorGloss": "determinar",
+          "dependent": 40,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "acl",
+          "governor": 39,
+          "governorGloss": "encargadas",
+          "dependent": 41,
+          "dependentGloss": "determinar"
+        },
+        {
+          "dep": "det",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 42,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obj",
+          "governor": 41,
+          "governorGloss": "determinar",
+          "dependent": 43,
+          "dependentGloss": "causas"
+        },
+        {
+          "dep": "amod",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 44,
+          "dependentGloss": "reales"
+        },
+        {
+          "dep": "case",
+          "governor": 47,
+          "governorGloss": "muerte",
+          "dependent": 45,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "det",
+          "governor": 47,
+          "governorGloss": "muerte",
+          "dependent": 46,
+          "dependentGloss": "su"
+        },
+        {
+          "dep": "nmod",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 47,
+          "dependentGloss": "muerte"
+        },
+        {
+          "dep": "punct",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 48,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 10,
+          "dependentGloss": "corresponde"
+        },
+        {
+          "dep": "case",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 1,
+          "dependentGloss": "De"
+        },
+        {
+          "dep": "fixed",
+          "governor": 1,
+          "governorGloss": "De",
+          "dependent": 2,
+          "dependentGloss": "acuerdo"
+        },
+        {
+          "dep": "fixed",
+          "governor": 1,
+          "governorGloss": "De",
+          "dependent": 3,
+          "dependentGloss": "con"
+        },
+        {
+          "dep": "det",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 4,
+          "dependentGloss": "los"
+        },
+        {
+          "dep": "obl",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 5,
+          "dependentGloss": "informes"
+        },
+        {
+          "dep": "obl",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 5,
+          "dependentGloss": "informes"
+        },
+        {
+          "dep": "amod",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 6,
+          "dependentGloss": "policíacos"
+        },
+        {
+          "dep": "punct",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 7,
+          "dependentGloss": ","
+        },
+        {
+          "dep": "det",
+          "governor": 9,
+          "governorGloss": "cuerpo",
+          "dependent": 8,
+          "dependentGloss": "el"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 9,
+          "dependentGloss": "cuerpo"
+        },
+        {
+          "dep": "case",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 11,
+          "dependentGloss": "a"
+        },
+        {
+          "dep": "det",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 12,
+          "dependentGloss": "un"
+        },
+        {
+          "dep": "obj",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 13,
+          "dependentGloss": "hombre"
+        },
+        {
+          "dep": "case",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 14,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "advmod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 15,
+          "dependentGloss": "aproximadamente"
+        },
+        {
+          "dep": "nummod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 16,
+          "dependentGloss": "30"
+        },
+        {
+          "dep": "nmod",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 17,
+          "dependentGloss": "años"
+        },
+        {
+          "dep": "case",
+          "governor": 19,
+          "governorGloss": "edad",
+          "dependent": 18,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "nmod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 19,
+          "dependentGloss": "edad"
+        },
+        {
+          "dep": "amod",
+          "governor": 19,
+          "governorGloss": "edad",
+          "dependent": 20,
+          "dependentGloss": "mismo"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 21,
+          "dependentGloss": "que"
+        },
+        {
+          "dep": "acl",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 22,
+          "dependentGloss": "presentaba"
+        },
+        {
+          "dep": "det",
+          "governor": 24,
+          "governorGloss": "lesiones",
+          "dependent": 23,
+          "dependentGloss": "algunas"
+        },
+        {
+          "dep": "obj",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 24,
+          "dependentGloss": "lesiones"
+        },
+        {
+          "dep": "case",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 25,
+          "dependentGloss": "en"
+        },
+        {
+          "dep": "det",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 26,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obl",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 27,
+          "dependentGloss": "extremidades"
+        },
+        {
+          "dep": "case",
+          "governor": 30,
+          "governorGloss": "cuerpo",
+          "dependent": 28,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "det",
+          "governor": 30,
+          "governorGloss": "cuerpo",
+          "dependent": 29,
+          "dependentGloss": "su"
+        },
+        {
+          "dep": "nmod",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 30,
+          "dependentGloss": "cuerpo"
+        },
+        {
+          "dep": "punct",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 31,
+          "dependentGloss": ";"
+        },
+        {
+          "dep": "advmod",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 32,
+          "dependentGloss": "sin"
+        },
+        {
+          "dep": "fixed",
+          "governor": 32,
+          "governorGloss": "sin",
+          "dependent": 33,
+          "dependentGloss": "embargo"
+        },
+        {
+          "dep": "cop",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 34,
+          "dependentGloss": "serán"
+        },
+        {
+          "dep": "det",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 35,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "advcl",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 36,
+          "dependentGloss": "autoridades"
+        },
+        {
+          "dep": "amod",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 37,
+          "dependentGloss": "correspondientes"
+        },
+        {
+          "dep": "det",
+          "governor": 39,
+          "governorGloss": "encargadas",
+          "dependent": 38,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obj",
+          "governor": 37,
+          "governorGloss": "correspondientes",
+          "dependent": 39,
+          "dependentGloss": "encargadas"
+        },
+        {
+          "dep": "mark",
+          "governor": 41,
+          "governorGloss": "determinar",
+          "dependent": 40,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "acl",
+          "governor": 39,
+          "governorGloss": "encargadas",
+          "dependent": 41,
+          "dependentGloss": "determinar"
+        },
+        {
+          "dep": "det",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 42,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obj",
+          "governor": 41,
+          "governorGloss": "determinar",
+          "dependent": 43,
+          "dependentGloss": "causas"
+        },
+        {
+          "dep": "amod",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 44,
+          "dependentGloss": "reales"
+        },
+        {
+          "dep": "case",
+          "governor": 47,
+          "governorGloss": "muerte",
+          "dependent": 45,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "det",
+          "governor": 47,
+          "governorGloss": "muerte",
+          "dependent": 46,
+          "dependentGloss": "su"
+        },
+        {
+          "dep": "nmod",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 47,
+          "dependentGloss": "muerte"
+        },
+        {
+          "dep": "punct",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 48,
+          "dependentGloss": "."
+        }
+      ],
+      "enhancedPlusPlusDependencies": [
+        {
+          "dep": "ROOT",
+          "governor": 0,
+          "governorGloss": "ROOT",
+          "dependent": 10,
+          "dependentGloss": "corresponde"
+        },
+        {
+          "dep": "case",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 1,
+          "dependentGloss": "De"
+        },
+        {
+          "dep": "fixed",
+          "governor": 1,
+          "governorGloss": "De",
+          "dependent": 2,
+          "dependentGloss": "acuerdo"
+        },
+        {
+          "dep": "fixed",
+          "governor": 1,
+          "governorGloss": "De",
+          "dependent": 3,
+          "dependentGloss": "con"
+        },
+        {
+          "dep": "det",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 4,
+          "dependentGloss": "los"
+        },
+        {
+          "dep": "obl",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 5,
+          "dependentGloss": "informes"
+        },
+        {
+          "dep": "obl",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 5,
+          "dependentGloss": "informes"
+        },
+        {
+          "dep": "amod",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 6,
+          "dependentGloss": "policíacos"
+        },
+        {
+          "dep": "punct",
+          "governor": 5,
+          "governorGloss": "informes",
+          "dependent": 7,
+          "dependentGloss": ","
+        },
+        {
+          "dep": "det",
+          "governor": 9,
+          "governorGloss": "cuerpo",
+          "dependent": 8,
+          "dependentGloss": "el"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 9,
+          "dependentGloss": "cuerpo"
+        },
+        {
+          "dep": "case",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 11,
+          "dependentGloss": "a"
+        },
+        {
+          "dep": "det",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 12,
+          "dependentGloss": "un"
+        },
+        {
+          "dep": "obj",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 13,
+          "dependentGloss": "hombre"
+        },
+        {
+          "dep": "case",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 14,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "advmod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 15,
+          "dependentGloss": "aproximadamente"
+        },
+        {
+          "dep": "nummod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 16,
+          "dependentGloss": "30"
+        },
+        {
+          "dep": "nmod",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 17,
+          "dependentGloss": "años"
+        },
+        {
+          "dep": "case",
+          "governor": 19,
+          "governorGloss": "edad",
+          "dependent": 18,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "nmod",
+          "governor": 17,
+          "governorGloss": "años",
+          "dependent": 19,
+          "dependentGloss": "edad"
+        },
+        {
+          "dep": "amod",
+          "governor": 19,
+          "governorGloss": "edad",
+          "dependent": 20,
+          "dependentGloss": "mismo"
+        },
+        {
+          "dep": "nsubj",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 21,
+          "dependentGloss": "que"
+        },
+        {
+          "dep": "acl",
+          "governor": 13,
+          "governorGloss": "hombre",
+          "dependent": 22,
+          "dependentGloss": "presentaba"
+        },
+        {
+          "dep": "det",
+          "governor": 24,
+          "governorGloss": "lesiones",
+          "dependent": 23,
+          "dependentGloss": "algunas"
+        },
+        {
+          "dep": "obj",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 24,
+          "dependentGloss": "lesiones"
+        },
+        {
+          "dep": "case",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 25,
+          "dependentGloss": "en"
+        },
+        {
+          "dep": "det",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 26,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obl",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 27,
+          "dependentGloss": "extremidades"
+        },
+        {
+          "dep": "case",
+          "governor": 30,
+          "governorGloss": "cuerpo",
+          "dependent": 28,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "det",
+          "governor": 30,
+          "governorGloss": "cuerpo",
+          "dependent": 29,
+          "dependentGloss": "su"
+        },
+        {
+          "dep": "nmod",
+          "governor": 27,
+          "governorGloss": "extremidades",
+          "dependent": 30,
+          "dependentGloss": "cuerpo"
+        },
+        {
+          "dep": "punct",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 31,
+          "dependentGloss": ";"
+        },
+        {
+          "dep": "advmod",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 32,
+          "dependentGloss": "sin"
+        },
+        {
+          "dep": "fixed",
+          "governor": 32,
+          "governorGloss": "sin",
+          "dependent": 33,
+          "dependentGloss": "embargo"
+        },
+        {
+          "dep": "cop",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 34,
+          "dependentGloss": "serán"
+        },
+        {
+          "dep": "det",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 35,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "advcl",
+          "governor": 22,
+          "governorGloss": "presentaba",
+          "dependent": 36,
+          "dependentGloss": "autoridades"
+        },
+        {
+          "dep": "amod",
+          "governor": 36,
+          "governorGloss": "autoridades",
+          "dependent": 37,
+          "dependentGloss": "correspondientes"
+        },
+        {
+          "dep": "det",
+          "governor": 39,
+          "governorGloss": "encargadas",
+          "dependent": 38,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obj",
+          "governor": 37,
+          "governorGloss": "correspondientes",
+          "dependent": 39,
+          "dependentGloss": "encargadas"
+        },
+        {
+          "dep": "mark",
+          "governor": 41,
+          "governorGloss": "determinar",
+          "dependent": 40,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "acl",
+          "governor": 39,
+          "governorGloss": "encargadas",
+          "dependent": 41,
+          "dependentGloss": "determinar"
+        },
+        {
+          "dep": "det",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 42,
+          "dependentGloss": "las"
+        },
+        {
+          "dep": "obj",
+          "governor": 41,
+          "governorGloss": "determinar",
+          "dependent": 43,
+          "dependentGloss": "causas"
+        },
+        {
+          "dep": "amod",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 44,
+          "dependentGloss": "reales"
+        },
+        {
+          "dep": "case",
+          "governor": 47,
+          "governorGloss": "muerte",
+          "dependent": 45,
+          "dependentGloss": "de"
+        },
+        {
+          "dep": "det",
+          "governor": 47,
+          "governorGloss": "muerte",
+          "dependent": 46,
+          "dependentGloss": "su"
+        },
+        {
+          "dep": "nmod",
+          "governor": 43,
+          "governorGloss": "causas",
+          "dependent": 47,
+          "dependentGloss": "muerte"
+        },
+        {
+          "dep": "punct",
+          "governor": 10,
+          "governorGloss": "corresponde",
+          "dependent": 48,
+          "dependentGloss": "."
+        }
+      ],
+      "kbp": [
+      ],
+      "entitymentions": [
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "30",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 95,
+          "ner": "NUMBER",
+          "normalizedNER": "30.0",
+          "nerConfidences": {
+            "NUMBER": -1
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "De",
+          "originalText": "De",
+          "lemma": "de",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 2,
+          "pos": "ADP",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "acuerdo",
+          "originalText": "acuerdo",
+          "lemma": "acuerdo",
+          "characterOffsetBegin": 3,
+          "characterOffsetEnd": 10,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "con",
+          "originalText": "con",
+          "lemma": "con",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 14,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "los",
+          "originalText": "los",
+          "lemma": "los",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 18,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "informes",
+          "originalText": "informes",
+          "lemma": "informes",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 27,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "policíacos",
+          "originalText": "policíacos",
+          "lemma": "policíacos",
+          "characterOffsetBegin": 28,
+          "characterOffsetEnd": 38,
+          "pos": "ADJ",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 39,
+          "pos": "PUNCT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "el",
+          "originalText": "el",
+          "lemma": "el",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 42,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "cuerpo",
+          "originalText": "cuerpo",
+          "lemma": "cuerpo",
+          "characterOffsetBegin": 43,
+          "characterOffsetEnd": 49,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "corresponde",
+          "originalText": "corresponde",
+          "lemma": "corresponde",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 61,
+          "pos": "VERB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 63,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "un",
+          "originalText": "un",
+          "lemma": "un",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "hombre",
+          "originalText": "hombre",
+          "lemma": "hombre",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 73,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "de",
+          "originalText": "de",
+          "lemma": "de",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 76,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "aproximadamente",
+          "originalText": "aproximadamente",
+          "lemma": "aproximadamente",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 92,
+          "pos": "ADV",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "30",
+          "originalText": "30",
+          "lemma": "30",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 95,
+          "pos": "NUM",
+          "ner": "NUMBER",
+          "normalizedNER": "30.0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "años",
+          "originalText": "años",
+          "lemma": "años",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 100,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "de",
+          "originalText": "de",
+          "lemma": "de",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 103,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "edad",
+          "originalText": "edad",
+          "lemma": "edad",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 108,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "mismo",
+          "originalText": "mismo",
+          "lemma": "mismo",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 114,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "que",
+          "originalText": "que",
+          "lemma": "que",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 118,
+          "pos": "PRON",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "presentaba",
+          "originalText": "presentaba",
+          "lemma": "presentaba",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 129,
+          "pos": "VERB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "algunas",
+          "originalText": "algunas",
+          "lemma": "algunas",
+          "characterOffsetBegin": 130,
+          "characterOffsetEnd": 137,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "lesiones",
+          "originalText": "lesiones",
+          "lemma": "lesiones",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 146,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "en",
+          "originalText": "en",
+          "lemma": "en",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 149,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "las",
+          "originalText": "las",
+          "lemma": "las",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 153,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "extremidades",
+          "originalText": "extremidades",
+          "lemma": "extremidades",
+          "characterOffsetBegin": 154,
+          "characterOffsetEnd": 166,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "de",
+          "originalText": "de",
+          "lemma": "de",
+          "characterOffsetBegin": 167,
+          "characterOffsetEnd": 169,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "su",
+          "originalText": "su",
+          "lemma": "su",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 172,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "cuerpo",
+          "originalText": "cuerpo",
+          "lemma": "cuerpo",
+          "characterOffsetBegin": 173,
+          "characterOffsetEnd": 179,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": ";",
+          "originalText": ";",
+          "lemma": ";",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 180,
+          "pos": "PUNCT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "sin",
+          "originalText": "sin",
+          "lemma": "sin",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 184,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 33,
+          "word": "embargo",
+          "originalText": "embargo",
+          "lemma": "embargo",
+          "characterOffsetBegin": 185,
+          "characterOffsetEnd": 192,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "serán",
+          "originalText": "serán",
+          "lemma": "serán",
+          "characterOffsetBegin": 193,
+          "characterOffsetEnd": 198,
+          "pos": "AUX",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "las",
+          "originalText": "las",
+          "lemma": "las",
+          "characterOffsetBegin": 199,
+          "characterOffsetEnd": 202,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 36,
+          "word": "autoridades",
+          "originalText": "autoridades",
+          "lemma": "autoridades",
+          "characterOffsetBegin": 203,
+          "characterOffsetEnd": 214,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "correspondientes",
+          "originalText": "correspondientes",
+          "lemma": "correspondientes",
+          "characterOffsetBegin": 215,
+          "characterOffsetEnd": 231,
+          "pos": "ADJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 38,
+          "word": "las",
+          "originalText": "las",
+          "lemma": "las",
+          "characterOffsetBegin": 232,
+          "characterOffsetEnd": 235,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 39,
+          "word": "encargadas",
+          "originalText": "encargadas",
+          "lemma": "encargadas",
+          "characterOffsetBegin": 236,
+          "characterOffsetEnd": 246,
+          "pos": "ADJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 40,
+          "word": "de",
+          "originalText": "de",
+          "lemma": "de",
+          "characterOffsetBegin": 247,
+          "characterOffsetEnd": 249,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 41,
+          "word": "determinar",
+          "originalText": "determinar",
+          "lemma": "determinar",
+          "characterOffsetBegin": 250,
+          "characterOffsetEnd": 260,
+          "pos": "VERB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 42,
+          "word": "las",
+          "originalText": "las",
+          "lemma": "las",
+          "characterOffsetBegin": 261,
+          "characterOffsetEnd": 264,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 43,
+          "word": "causas",
+          "originalText": "causas",
+          "lemma": "causas",
+          "characterOffsetBegin": 265,
+          "characterOffsetEnd": 271,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 44,
+          "word": "reales",
+          "originalText": "reales",
+          "lemma": "reales",
+          "characterOffsetBegin": 272,
+          "characterOffsetEnd": 278,
+          "pos": "ADJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 45,
+          "word": "de",
+          "originalText": "de",
+          "lemma": "de",
+          "characterOffsetBegin": 279,
+          "characterOffsetEnd": 281,
+          "pos": "ADP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 46,
+          "word": "su",
+          "originalText": "su",
+          "lemma": "su",
+          "characterOffsetBegin": 282,
+          "characterOffsetEnd": 284,
+          "pos": "DET",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 47,
+          "word": "muerte",
+          "originalText": "muerte",
+          "lemma": "muerte",
+          "characterOffsetBegin": 285,
+          "characterOffsetEnd": 291,
+          "pos": "NOUN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 48,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 291,
+          "characterOffsetEnd": 292,
+          "pos": "PUNCT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}
