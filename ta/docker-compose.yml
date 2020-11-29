@@ -1,3 +1,4 @@
+version: "3.8"
 services:
   corenlp:
     image: 
@@ -7,8 +8,8 @@ services:
     deploy:
       resources:
         reservations:
-          cpus: "0.5"
-          memory: 8G
-        requests:
-          memoryInGB: 4
-          cpu: 2
+          cpus: "2"
+          memory: 4G
+        limits:
+            cpus: "2"
+            memory: "4G"
