@@ -22,3 +22,5 @@ node_modules
 Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
+.vscode/settings.json
+*.Identifier
